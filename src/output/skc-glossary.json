@@ -1,0 +1,2754 @@
+[
+  {
+    "id": "62386c4a6ec20407ce319702",
+    "name": {
+      "en": "Access",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319704",
+    "name": {
+      "en": "Access control",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319705",
+    "name": {
+      "en": "Access control mechanism",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319706",
+    "name": {
+      "en": "Active attack",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319707",
+    "name": {
+      "en": "Active content",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319708",
+    "name": {
+      "en": "Advanced persistent threat",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319709",
+    "name": {
+      "en": "Adversary",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31970a",
+    "name": {
+      "en": "Air gap",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31970b",
+    "name": {
+      "en": "Alert",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31970c",
+    "name": {
+      "en": "Allowlist",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31970d",
+    "name": {
+      "en": "All source intelligence",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31970e",
+    "name": {
+      "en": "Analyze",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31970f",
+    "name": {
+      "en": "Antispyware software",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319710",
+    "name": {
+      "en": "Antivirus software",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319711",
+    "name": {
+      "en": "Asset",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319712",
+    "name": {
+      "en": "Asymmetric cryptography",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319713",
+    "name": {
+      "en": "Attack",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319714",
+    "name": {
+      "en": "Attack method",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319715",
+    "name": {
+      "en": "Attack mode",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319716",
+    "name": {
+      "en": "Attack path",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319717",
+    "name": {
+      "en": "Attack pattern",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319718",
+    "name": {
+      "en": "Attack signature",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319719",
+    "name": {
+      "en": "Attack surface",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31971a",
+    "name": {
+      "en": "Attacker",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31971b",
+    "name": {
+      "en": "Authenticate",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31971c",
+    "name": {
+      "en": "Authentication",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31971d",
+    "name": {
+      "en": "Authenticity",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31971e",
+    "name": {
+      "en": "Authorization",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31971f",
+    "name": {
+      "en": "Availability",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319720",
+    "name": {
+      "en": "Behavior monitoring",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319721",
+    "name": {
+      "en": "Blocklist",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319722",
+    "name": {
+      "en": "Blue team",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319723",
+    "name": {
+      "en": "Bot",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319724",
+    "name": {
+      "en": "Bone shepherd",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319725",
+    "name": {
+      "en": "Bot master",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319726",
+    "name": {
+      "en": "Botnet",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319727",
+    "name": {
+      "en": "Bug",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319728",
+    "name": {
+      "en": "Build security in",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319729",
+    "name": {
+      "en": "Capability",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31972a",
+    "name": {
+      "en": "Cipher",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31972b",
+    "name": {
+      "en": "Ciphertext",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31972c",
+    "name": {
+      "en": "Cloud computing",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31972d",
+    "name": {
+      "en": "Collect & operate",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31972e",
+    "name": {
+      "en": "Collection operations",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31972f",
+    "name": {
+      "en": "Computer forensics",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319730",
+    "name": {
+      "en": "Computer network defense",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319731",
+    "name": {
+      "en": "Computer network defense analysis",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319732",
+    "name": {
+      "en": "Computer network defense infrastructure support",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319733",
+    "name": {
+      "en": "Computer security incident",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319734",
+    "name": {
+      "en": "Confidentiality",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319735",
+    "name": {
+      "en": "Consequence",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319736",
+    "name": {
+      "en": "Continuity of operations plan",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319737",
+    "name": {
+      "en": "Critical infrastructure",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319738",
+    "name": {
+      "en": "Critical infrastructure and key resources",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319739",
+    "name": {
+      "en": "Cryptanalysis",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31973a",
+    "name": {
+      "en": "Cryptographic algorithm",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31973b",
+    "name": {
+      "en": "Cryptography",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31973c",
+    "name": {
+      "en": "Cryptology",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31973d",
+    "name": {
+      "en": "Customer service and technical support",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31973e",
+    "name": {
+      "en": "Cyber ecosystem",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31973f",
+    "name": {
+      "en": "Cyber exercise",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319740",
+    "name": {
+      "en": "Cyber incident",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319741",
+    "name": {
+      "en": "Cyber incident response plan",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319742",
+    "name": {
+      "en": "Cyber infrastructure",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319743",
+    "name": {
+      "en": "Cyber operations",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319744",
+    "name": {
+      "en": "Cyber operations planning",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319745",
+    "name": {
+      "en": "Cybersecurity",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319746",
+    "name": {
+      "en": "Cyberspace",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319747",
+    "name": {
+      "en": "Cyber threat intelligence (cti)",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319748",
+    "name": {
+      "en": "Data administration",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319749",
+    "name": {
+      "en": "Data aggregation",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31974a",
+    "name": {
+      "en": "Data breach",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31974b",
+    "name": {
+      "en": "Data integrity",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31974c",
+    "name": {
+      "en": "Data leakage",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31974d",
+    "name": {
+      "en": "Data loss",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31974e",
+    "name": {
+      "en": "Data loss prevention",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31974f",
+    "name": {
+      "en": "Data mining",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319750",
+    "name": {
+      "en": "Data games",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319751",
+    "name": {
+      "en": "Data theft",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319752",
+    "name": {
+      "en": "Decipher",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319753",
+    "name": {
+      "en": "Decode",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319754",
+    "name": {
+      "en": "Decrypt",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319755",
+    "name": {
+      "en": "Decryption",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319756",
+    "name": {
+      "en": "Denial of service",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319757",
+    "name": {
+      "en": "Designed-in security",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319758",
+    "name": {
+      "en": "Digital forensics",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319759",
+    "name": {
+      "en": "Digital rights management",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31975a",
+    "name": {
+      "en": "Digital signature",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31975b",
+    "name": {
+      "en": "Disruption",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31975c",
+    "name": {
+      "en": "Distributed denial of service",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31975d",
+    "name": {
+      "en": "Dynamic attack surface",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31975e",
+    "name": {
+      "en": "Education and training",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31975f",
+    "name": {
+      "en": "Electronic signature",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319760",
+    "name": {
+      "en": "Encipher",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319761",
+    "name": {
+      "en": "Encode",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319762",
+    "name": {
+      "en": "Encrypt",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319763",
+    "name": {
+      "en": "Encryption",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319764",
+    "name": {
+      "en": "Enterprise risk management",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319765",
+    "name": {
+      "en": "Event",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319766",
+    "name": {
+      "en": "Exfiltration",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319767",
+    "name": {
+      "en": "Exploit",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319768",
+    "name": {
+      "en": "Exploitation analysis",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319769",
+    "name": {
+      "en": "Exposure",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31976a",
+    "name": {
+      "en": "Failure",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31976b",
+    "name": {
+      "en": "Firewall",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31976c",
+    "name": {
+      "en": "Forensics",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31976d",
+    "name": {
+      "en": "Hacker",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31976e",
+    "name": {
+      "en": "Hash value",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31976f",
+    "name": {
+      "en": "Hashing",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319770",
+    "name": {
+      "en": "Hazard",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319771",
+    "name": {
+      "en": "Ict supply chain threat",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319772",
+    "name": {
+      "en": "Identity and access management",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319773",
+    "name": {
+      "en": "Impact",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319774",
+    "name": {
+      "en": "Incident",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319775",
+    "name": {
+      "en": "Incident management",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319776",
+    "name": {
+      "en": "Incident response",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319777",
+    "name": {
+      "en": "Incident response plan",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319778",
+    "name": {
+      "en": "Indicator",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319779",
+    "name": {
+      "en": "Industrial control system",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31977a",
+    "name": {
+      "en": "Information and communication(s) technology",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31977b",
+    "name": {
+      "en": "Information assurance",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31977c",
+    "name": {
+      "en": "Information assurance compliance",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31977d",
+    "name": {
+      "en": "Information security policy",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31977e",
+    "name": {
+      "en": "Information sharing",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31977f",
+    "name": {
+      "en": "Information system resilience",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319780",
+    "name": {
+      "en": "Information systems security operations",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319781",
+    "name": {
+      "en": "Information technology",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319782",
+    "name": {
+      "en": "Inside( r) threat",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319783",
+    "name": {
+      "en": "Integrated risk management",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319784",
+    "name": {
+      "en": "Integrity",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319785",
+    "name": {
+      "en": "Intent",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319786",
+    "name": {
+      "en": "Interoperability",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319787",
+    "name": {
+      "en": "Intrusion",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319788",
+    "name": {
+      "en": "Intrusion detection",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319789",
+    "name": {
+      "en": "Investigate",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31978a",
+    "name": {
+      "en": "Investigation",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31978b",
+    "name": {
+      "en": "It asset",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31978c",
+    "name": {
+      "en": "Key",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31978d",
+    "name": {
+      "en": "Key pair",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31978e",
+    "name": {
+      "en": "Key resource",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31978f",
+    "name": {
+      "en": "Keylogger",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319790",
+    "name": {
+      "en": "Knowledge management",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319791",
+    "name": {
+      "en": "Legal advice and advocacy",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319792",
+    "name": {
+      "en": "Machine learning and evolution",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319793",
+    "name": {
+      "en": "Macro virus",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319794",
+    "name": {
+      "en": "Malicious applet",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319795",
+    "name": {
+      "en": "Malicious code",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319796",
+    "name": {
+      "en": "Malicious logic",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319797",
+    "name": {
+      "en": "Malware",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319798",
+    "name": {
+      "en": "Mitigation",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319799",
+    "name": {
+      "en": "Moving target defense",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31979a",
+    "name": {
+      "en": "Network resilience",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31979b",
+    "name": {
+      "en": "Network services",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31979c",
+    "name": {
+      "en": "Non-repudiation",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31979d",
+    "name": {
+      "en": "Object",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31979e",
+    "name": {
+      "en": "Operate & maintain",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31979f",
+    "name": {
+      "en": "Operational exercise",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197a0",
+    "name": {
+      "en": "Operations technology",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197a1",
+    "name": {
+      "en": "Outside( r) threat",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197a2",
+    "name": {
+      "en": "Oversight & development",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197a3",
+    "name": {
+      "en": "Passive attack",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197a4",
+    "name": {
+      "en": "Password",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197a5",
+    "name": {
+      "en": "Pen test",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197a6",
+    "name": {
+      "en": "Penetration",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197a7",
+    "name": {
+      "en": "Penetration testing",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197a8",
+    "name": {
+      "en": "Personal identifying information / personally identifiable information",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197a9",
+    "name": {
+      "en": "Phishing",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197aa",
+    "name": {
+      "en": "Plaintext",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197ab",
+    "name": {
+      "en": "Precursor",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197ac",
+    "name": {
+      "en": "Preparedness",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197ad",
+    "name": {
+      "en": "Privacy",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197ae",
+    "name": {
+      "en": "Private key",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197af",
+    "name": {
+      "en": "Protect & defend",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197b0",
+    "name": {
+      "en": "Public key",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197b1",
+    "name": {
+      "en": "Public key cryptography",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197b2",
+    "name": {
+      "en": "Public key encryption",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197b3",
+    "name": {
+      "en": "Public key infrastructure",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197b4",
+    "name": {
+      "en": "Recovery",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197b5",
+    "name": {
+      "en": "Red team",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197b6",
+    "name": {
+      "en": "Red team exercise",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197b7",
+    "name": {
+      "en": "Redundancy",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197b8",
+    "name": {
+      "en": "Resilience",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197b9",
+    "name": {
+      "en": "Response",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197ba",
+    "name": {
+      "en": "Response plan",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197bb",
+    "name": {
+      "en": "Risk",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197bc",
+    "name": {
+      "en": "Risk analysis",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197bd",
+    "name": {
+      "en": "Risk assessment",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197be",
+    "name": {
+      "en": "Risk management",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197bf",
+    "name": {
+      "en": "Risk mitigation",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197c0",
+    "name": {
+      "en": "Risk-based data management",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197c1",
+    "name": {
+      "en": "Rootkit",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197c2",
+    "name": {
+      "en": "Secret key",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197c3",
+    "name": {
+      "en": "Securely provision",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197c4",
+    "name": {
+      "en": "Security automation",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197c5",
+    "name": {
+      "en": "Security incident",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197c6",
+    "name": {
+      "en": "Security policy",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197c7",
+    "name": {
+      "en": "Security program management",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197c8",
+    "name": {
+      "en": "Signature",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197c9",
+    "name": {
+      "en": "Situational awareness",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197ca",
+    "name": {
+      "en": "Software assurance",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197cb",
+    "name": {
+      "en": "Software assurance and security engineering",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197cc",
+    "name": {
+      "en": "Spam",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197cd",
+    "name": {
+      "en": "Spillage",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197ce",
+    "name": {
+      "en": "Spoofing",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197cf",
+    "name": {
+      "en": "Spyware",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197d0",
+    "name": {
+      "en": "Strategic planning and policy development",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197d1",
+    "name": {
+      "en": "Subject",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197d2",
+    "name": {
+      "en": "Supervisory control and data acquisition",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197d3",
+    "name": {
+      "en": "Supply chain",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197d4",
+    "name": {
+      "en": "Supply chain risk management",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197d5",
+    "name": {
+      "en": "Symmetric cryptography",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197d6",
+    "name": {
+      "en": "Symmetric encryption algorithm",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197d7",
+    "name": {
+      "en": "Symmetric key",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197d8",
+    "name": {
+      "en": "System administration",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197d9",
+    "name": {
+      "en": "System integrity",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197da",
+    "name": {
+      "en": "Systems development",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197db",
+    "name": {
+      "en": "Systems requirements planning",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197dc",
+    "name": {
+      "en": "Systems security analysis",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197dd",
+    "name": {
+      "en": "Systems security architecture",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197de",
+    "name": {
+      "en": "Tabletop exercise",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197df",
+    "name": {
+      "en": "Tailored trustworthy space",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197e0",
+    "name": {
+      "en": "Targets",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197e1",
+    "name": {
+      "en": "Technology research and development",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197e2",
+    "name": {
+      "en": "Test and evaluation",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197e3",
+    "name": {
+      "en": "Threat",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197e4",
+    "name": {
+      "en": "Threat actor",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197e5",
+    "name": {
+      "en": "Threat agent",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197e6",
+    "name": {
+      "en": "Threat analysis",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197e7",
+    "name": {
+      "en": "Threat assessment",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197e8",
+    "name": {
+      "en": "Ticket",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197e9",
+    "name": {
+      "en": "Traffic light protocol",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197ea",
+    "name": {
+      "en": "Trojan horse",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197eb",
+    "name": {
+      "en": "Unauthorized access",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197ec",
+    "name": {
+      "en": "Virus",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197ed",
+    "name": {
+      "en": "Vulnerability",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197ee",
+    "name": {
+      "en": "Vulnerability assessment and management",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197ef",
+    "name": {
+      "en": "Weakness",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197f0",
+    "name": {
+      "en": "White team",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197f1",
+    "name": {
+      "en": "Work factor",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197f2",
+    "name": {
+      "en": "Worm",
+      "jp": ""
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197f3",
+    "name": {
+      "en": "",
+      "jp": "アカウント（account）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197f4",
+    "name": {
+      "en": "",
+      "jp": "アクセス制御 （access control）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197f5",
+    "name": {
+      "en": "",
+      "jp": "アノマリ検出法（anomaly detection）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197f6",
+    "name": {
+      "en": "",
+      "jp": "アプリケーションゲートウェイ（application gateway）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197f7",
+    "name": {
+      "en": "",
+      "jp": "インシデント（incident）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197f8",
+    "name": {
+      "en": "",
+      "jp": "インシデント対応（incident response）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197f9",
+    "name": {
+      "en": "",
+      "jp": "インストール（Install）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197fa",
+    "name": {
+      "en": "",
+      "jp": "ウイルス（virus）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197fb",
+    "name": {
+      "en": "",
+      "jp": "ウイルス対策ソフト（Anti-virus soft）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197fc",
+    "name": {
+      "en": "",
+      "jp": "ウイルス定義ファイル"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197fd",
+    "name": {
+      "en": "",
+      "jp": "裏口（backdoor）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197fe",
+    "name": {
+      "en": "",
+      "jp": "カーボンコピー（CC:）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce3197ff",
+    "name": {
+      "en": "",
+      "jp": "カウンタ（Counter）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319800",
+    "name": {
+      "en": "",
+      "jp": "拡張子（Extension）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319801",
+    "name": {
+      "en": "",
+      "jp": "カットアンドペースト、切り取りと貼り付け（Cut ＆ Paste）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319802",
+    "name": {
+      "en": "",
+      "jp": "可用性（availability）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319803",
+    "name": {
+      "en": "",
+      "jp": "完全性（integrity）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319804",
+    "name": {
+      "en": "",
+      "jp": "共有ファイル（Shared File）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319805",
+    "name": {
+      "en": "",
+      "jp": "機密性（confidentiality）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319806",
+    "name": {
+      "en": "",
+      "jp": "クラスタ（Cluster）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319807",
+    "name": {
+      "en": "",
+      "jp": "クラッカー（cracker）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319808",
+    "name": {
+      "en": "",
+      "jp": "クラッシュ（Crash）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319809",
+    "name": {
+      "en": "",
+      "jp": "クロスサイトスクリプティング脆弱性（cross site scripting vulnerability）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31980a",
+    "name": {
+      "en": "",
+      "jp": "ゲートウェイ"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31980b",
+    "name": {
+      "en": "",
+      "jp": "公開鍵インフラストラクチャ （PKI： Public Key Infrastructure）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31980c",
+    "name": {
+      "en": "",
+      "jp": "攻撃（attack）、攻撃者（attacker）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31980d",
+    "name": {
+      "en": "",
+      "jp": "攻略、攻略手段（exploit）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31980e",
+    "name": {
+      "en": "",
+      "jp": "コマンドライン、コマンドプロンプト（Command Line、Command Prompt）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31980f",
+    "name": {
+      "en": "",
+      "jp": "サービス妨害攻撃（DoS attack： Denial of Service attack)"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319810",
+    "name": {
+      "en": "",
+      "jp": "自己解凍ファイル(Self Extraction File)"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319811",
+    "name": {
+      "en": "",
+      "jp": "辞書攻撃（dictionary attack）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319812",
+    "name": {
+      "en": "",
+      "jp": "修正プログラム（fix, patch）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319813",
+    "name": {
+      "en": "",
+      "jp": "守秘性（confidentiality）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319814",
+    "name": {
+      "en": "",
+      "jp": "常駐型、メモリ常駐(Memory Resident)"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319815",
+    "name": {
+      "en": "",
+      "jp": "証明書（certificate）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319816",
+    "name": {
+      "en": "",
+      "jp": "初期化、フォーマット（Format）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319817",
+    "name": {
+      "en": "",
+      "jp": "侵入（intrusion）、侵入者（intruder）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319818",
+    "name": {
+      "en": "",
+      "jp": "侵入検知システム（IDS： Intrusion Detection System）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319819",
+    "name": {
+      "en": "",
+      "jp": "侵入テスト（penetration test）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31981a",
+    "name": {
+      "en": "",
+      "jp": "スパイウェア(spyware)"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31981b",
+    "name": {
+      "en": "",
+      "jp": "スパム（spam）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31981c",
+    "name": {
+      "en": "",
+      "jp": "脆弱性（vulnerability）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31981d",
+    "name": {
+      "en": "",
+      "jp": "セキュリティホール（security hole）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31981e",
+    "name": {
+      "en": "",
+      "jp": "ソーシャルエンジニアリング（social engineering）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31981f",
+    "name": {
+      "en": "",
+      "jp": "タイムスタンプ（TimeStamp）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319820",
+    "name": {
+      "en": "",
+      "jp": "ダウンロード（Download）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319821",
+    "name": {
+      "en": "",
+      "jp": "ディレクトリ、フォルダ（Directory、Folder）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319822",
+    "name": {
+      "en": "",
+      "jp": "デジタル署名（digital signature）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319823",
+    "name": {
+      "en": "",
+      "jp": "デフォルトアカウント（default account）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319824",
+    "name": {
+      "en": "",
+      "jp": "デマメール(Virus Hoax)"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319825",
+    "name": {
+      "en": "",
+      "jp": "添付ファイル(Attachment）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319826",
+    "name": {
+      "en": "",
+      "jp": "ドス起動ディスク(Dos Boot-Up Disk）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319827",
+    "name": {
+      "en": "",
+      "jp": "トロイの木馬 (Trojan horse)"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319828",
+    "name": {
+      "en": "",
+      "jp": "認可（authorization）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319829",
+    "name": {
+      "en": "",
+      "jp": "認証（authentication）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31982a",
+    "name": {
+      "en": "",
+      "jp": "認証局／認証機関 （CA： Certification Authority）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31982b",
+    "name": {
+      "en": "",
+      "jp": "パーティション（Partition）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31982c",
+    "name": {
+      "en": "",
+      "jp": "バイオス（BIOS）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31982d",
+    "name": {
+      "en": "",
+      "jp": "バウンス攻撃（bounce attack）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31982e",
+    "name": {
+      "en": "",
+      "jp": "パケットフィルタリング（packet filtering）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31982f",
+    "name": {
+      "en": "",
+      "jp": "パスワード解析 （password cracking）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319830",
+    "name": {
+      "en": "",
+      "jp": "バックアップ（backup）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319831",
+    "name": {
+      "en": "",
+      "jp": "バックドア（backdoor）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319832",
+    "name": {
+      "en": "",
+      "jp": "パッチ（patch）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319833",
+    "name": {
+      "en": "",
+      "jp": "バッファオーバーフロー (buffer overflow)"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319834",
+    "name": {
+      "en": "",
+      "jp": "バッファオーバーラン (buffer overrun )"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319835",
+    "name": {
+      "en": "",
+      "jp": "パーソナルファイアウォール（personal firewall）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319836",
+    "name": {
+      "en": "",
+      "jp": "ハングアップ（Hangup）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319837",
+    "name": {
+      "en": "",
+      "jp": "ピーイー、ポータブルエグゼクタブル（PE、Portable Executable）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319838",
+    "name": {
+      "en": "",
+      "jp": "ファイアウォール（firewall）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319839",
+    "name": {
+      "en": "",
+      "jp": "ファイルアロケーションテーブル、ファット（File Allocation Table、ＦＡＴ）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31983a",
+    "name": {
+      "en": "",
+      "jp": "ファイル共有ソフト"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31983b",
+    "name": {
+      "en": "",
+      "jp": "ファイル属性(File Attribute)"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31983c",
+    "name": {
+      "en": "",
+      "jp": "フィックス（fix）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31983d",
+    "name": {
+      "en": "",
+      "jp": "フィッシング(phishing)"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31983e",
+    "name": {
+      "en": "",
+      "jp": "ブートセクタ、ブートレコード（BootSector、BootRecord）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31983f",
+    "name": {
+      "en": "",
+      "jp": "不正アクセス（unauthorized access）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319840",
+    "name": {
+      "en": "",
+      "jp": "踏み台"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319841",
+    "name": {
+      "en": "",
+      "jp": "ブラインドカーボンコピー（BCC:）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319842",
+    "name": {
+      "en": "",
+      "jp": "プライバシーマーク制度"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319843",
+    "name": {
+      "en": "",
+      "jp": "ブルートフォース攻撃 （brute force attack）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319844",
+    "name": {
+      "en": "",
+      "jp": "分散型サービス妨害攻撃（DDoS attack: Distributed Denial of Service attack）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319845",
+    "name": {
+      "en": "",
+      "jp": "ペネトレーションテスト（penetration test）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319846",
+    "name": {
+      "en": "",
+      "jp": "ボット(bot)"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319847",
+    "name": {
+      "en": "",
+      "jp": "ボリューム、ボリューム名（ボリュームラベル）（Volume(Volume Label））"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319848",
+    "name": {
+      "en": "",
+      "jp": "本人認証（authentication）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319849",
+    "name": {
+      "en": "",
+      "jp": "ポートスキャン (port scan)"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31984a",
+    "name": {
+      "en": "",
+      "jp": "マクロ（Macro）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31984b",
+    "name": {
+      "en": "",
+      "jp": "マクロウイルス（Macro Virus）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31984c",
+    "name": {
+      "en": "",
+      "jp": "マスターブートレコード（MBR:Master Boot Record）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31984d",
+    "name": {
+      "en": "",
+      "jp": "マルウェア(malware)"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31984e",
+    "name": {
+      "en": "",
+      "jp": "ミスユース検出法（misuse detection）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31984f",
+    "name": {
+      "en": "",
+      "jp": "迷惑メール（UBE： Unsolicited Bulk Email）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319850",
+    "name": {
+      "en": "",
+      "jp": "メーラー（Mailer）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319851",
+    "name": {
+      "en": "",
+      "jp": "メール爆撃（mail bombing）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319852",
+    "name": {
+      "en": "",
+      "jp": "要塞ホスト（bastion host）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319853",
+    "name": {
+      "en": "",
+      "jp": "ライトプロテクト（Write Protect)"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319854",
+    "name": {
+      "en": "",
+      "jp": "リスク（risk）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319855",
+    "name": {
+      "en": "",
+      "jp": "リッチテキスト形式（Rich Text Format）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319856",
+    "name": {
+      "en": "",
+      "jp": "レジストリ（Registry）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319857",
+    "name": {
+      "en": "",
+      "jp": "ロギング（logging）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319858",
+    "name": {
+      "en": "",
+      "jp": "露出（exposure）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce319859",
+    "name": {
+      "en": "",
+      "jp": "ワーム（worm）"
+    },
+    "index": "skc-glossary"
+  },
+  {
+    "id": "62386c4a6ec20407ce31985a",
+    "name": {
+      "en": "",
+      "jp": "ワクチンソフト（Vaccine Soft）"
+    },
+    "index": "skc-glossary"
+  }
+]

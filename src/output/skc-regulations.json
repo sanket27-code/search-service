@@ -1,0 +1,266 @@
+[
+  {
+    "id": "623afb6a6ec20407ce3198b6",
+    "index": "skc-regulations",
+    "name": {
+      "en": "Cyber Security Basic Law ",
+      "jp": "サイバー 基本法"
+    },
+    "description": {
+      "en": "Regarding measures related to cyber security, it has established a basic philosophy and clarified the responsibilities of the national and local governments.",
+      "jp": "サイバーセキュリティに関する施策に関し、基本理念を定め、国や地方公共団体の責務などを明らかにしている。"
+    },
+    "notes": {
+      "en": "The Cyber ​​Security Basic Law was enacted in 2014 (Heisei 26) and has been in force since January 2015 (Heisei 27).\r\r\nThe\r\r\nThis law stipulates the basic principles, national responsibilities, cyber security strategies, and other basic matters in order to comprehensively and efficiently promote measures related to cyber security.\r\r\nIn addition, with the enforcement of the Cyber ​​Security Basic Law, the organizational structure has been improved, and the Cyber ​​Security Strategy Headquarters, headed by the Chief Cabinet Secretary of Japan, was established. The Cabinet Cyber ​​Security Center (NISC) has also been set up in the Cabinet Secretariat.\r\r\nSince its enforcement, the law has already been amended twice in 2016 and 2018, taking into account cybersecurity threats and social conditions.\r\r\nWhat is a cyber security strategy?\r\r\nA national strategy to ensure the safety and security of cyberspace on the Internet (virtual space on computer networks). Cybersecurity 2021, which became the most important part of this law, was decided in 2020.\r\r\n\r\r\n",
+      "jp": "サイバーセキュリティ基本法は、2014年（平成26年）に成立し、2015年（平成27年）1月から施行されています。\r\n \r\nこの法律は、サイバーセキュリティに関する施策を総合的かつ効率的に推進するため、基本理念や国の責務、サイバーセキュリティ戦略をはじめとする施策の基本となる事項を規定したものです。\r\nまた、サイバーセキュリティ基本法の施行にともない組織体制も整備され、内閣官房長官を本部長とするサイバーセキュリティ戦略本部が創設。内閣官房に内閣サイバーセキュリティセンター（NISC）も設置されました。\r\n同法は、施行以降サイバーセキュリティ脅威や社会情勢を加味して現時点ですでに、2016年と2018年の二回改正されています。\r\nサイバーセキュリティ戦略とは？\r\nインターネット上のサイバー空間（コンピュータ・ネットワーク上の仮想空間）の安全・安心を確保するための国家戦略。 この法律で最も重要な部分となり、サイバーセキュリティ 2021が2020年に決定された。\r\n\r\n"
+    },
+    "category": {
+      "en": "Cyber Security Related",
+      "jp": "サイバーセキュリティ関連"
+    },
+    "subCategory": {
+      "en": "Regulations",
+      "jp": "法規"
+    }
+  },
+  {
+    "id": "623afb6a6ec20407ce3198b7",
+    "index": "skc-regulations",
+    "name": {
+      "en": "Personal Information Protection Act",
+      "jp": "個人情報保護法"
+    },
+    "description": {
+      "en": "It is a law that stipulates the obligations of private businesses that handle personal information to comply with.",
+      "jp": "個人情報を取り扱う民間事業者の遵守すべき義務等を定める法律である。"
+    },
+    "notes": {
+      "en": "The official name of the Personal Information Protection Law is \"Law Concerning the Protection of Personal Information\" (Act No. 57 of 2003, hereinafter referred to as \"Personal Information Protection Law\" or \"Protection Law\"), 2003. It was promulgated in May and was fully enforced in April 2005 and May 2017.\r\nThe Personal Information Protection Law is a law that mainly stipulates the obligations of private businesses that handle personal information to comply with (Chapter 4 to Chapter 7 of the Protection Law). Regarding the handling of personal information by administrative agencies, it is an incorporated administrative agency under the \"Act on the Protection of Personal Information Held by Administrative Agencies\" (Act No. 58 of 2003, hereinafter referred to as \"Administrative Agency Personal Information Protection Act\"). Regarding the handling of personal information in, etc., it is stipulated in the \"Act on the Protection of Personal Information Held by Incorporated Administrative Agencies, etc.\" Has been done.\r\nRegarding the handling of personal information at prefectural offices, municipal offices, boards of education, public schools, public hospitals, etc., the personal information protection regulations established by each local public body apply.\r\nIn this way, the disparity of personal information protection legislation has been a problem in the past, but the Ordinance 3rd Year Amendment Act (\"Act on the Development of Related Laws to Form a Digital Society\" (\" These laws and ordinances have been unified into the Personal Information Protection Law by the Ordinance 3rd Year Law No. 37)), and the Personal Information Protection Law covers not only private businesses but also the national government, independent administrative agencies, and local public organizations. It will be a law. The unification of the Personal Information Protection Law, the Personal Information Protection Law, Incorporated Administrative Agencies, etc. The unification of the protection regulations will come into effect on the date specified by the Cabinet Order until May 18, 5th year of the Ordinance. The Reiwa 2-year amendment law of the Personal Information Protection Law will come into effect on April 1, 4th year of Reiwa.\r\n",
+      "jp": "　個人情報保護法の正式な法律名は、「個人情報の保護に関する法律」（平成15年法律第57号、以下「個人情報保護法」または「保護法」といいます）であり、平成15年5月に公布され、平成17年4月、平成29年5月に全面施行されました。\r\n　個人情報保護法は、主に個人情報を取り扱う民間事業者の遵守すべき義務等を定める法律です（保護法第4章～第7章）。\u000b　行政機関における個人情報の取扱いについては、「行政機関の保有する個人情報の保護に関する法律」（平成15年法律第58号、以下「行政機関個人情報保護法」といいます）において、独立行政法人等における個人情報の取扱いについては、「独立行政法人等の保有する個人情報の保護に関する法律」（平成15年法律第59号、以下「独立行政法人等個人情報保護法」といいます）において定められています。\r\n　都道府県庁や市町村役場、教育委員会、公立学校、公立病院等における個人情報の取扱いについては、各地方公共団体が策定する個人情報保護条例が適用されます。\r\n　このように、個人情報保護法制がバラバラになっていることが、従来問題となってきましたが、令和3年改正法（「デジタル社会の形成を図るための関係法律の整備に関する法律」（令和3年法律第37号））により、これらの法律や条例が個人情報保護法に一元化され、個人情報保護法は、民間事業者だけでなく、国、独立行政法人、地方公共団体も対象とする法律となります。個人情報保護法・行政機関個人情報保護法・独立行政法人等個人情報保護法の一元化は令和4年5月18日までの政令で定める日、個人情報保護法と各地方公共団体の個人情報保護条例の一元化は令和5年5月18日までの政令で定める日に施行されます。なお、個人情報保護法の令和2年改正法は、令和4年4月1日に施行されます。\r\n"
+    },
+    "category": {
+      "en": "Cyber Security Related",
+      "jp": "サイバーセキュリティ関連"
+    },
+    "subCategory": {
+      "en": "Regulations",
+      "jp": "法規"
+    }
+  },
+  {
+    "id": "623afb6a6ec20407ce3198b8",
+    "index": "skc-regulations",
+    "name": {
+      "en": "Personal Information Protection Act Guideline",
+      "jp": "個人情報保護法のガイドライン"
+    },
+    "description": {
+      "en": "The Personal Information Protection Law Guidelines are established as specific guidelines based on the \"Article 4\", \"Article 8\" and \"Article 60\" of the Law Concerning the Protection of Personal Information.",
+      "jp": "個人情報保護法ガイドラインとは、個人情報の保護に関する法律「第4条」「第8条」「第60条」にもとづいて、具体的指針として定めたもの。"
+    },
+    "notes": {
+      "en": "The following three types are separately stipulated in the Personal Information Protection Law Guidelines.\r\nThe provision to third parties in foreign countries is the \"Guidelines for the Act on the Protection of Personal Information\" aimed at the appropriate and effective implementation of measures taken by businesses that support activities related to ensuring the proper handling of personal information. From the perspective of focusing on the part related to the provision of personal data to third parties in foreign countries and showing it in an easy-to-understand and integrated manner, it is stipulated separately from the general guidelines.\r\nThe anonymously processed information section is defined separately from the general guidelines from the viewpoint of showing in an easy-to-understand and integrated manner by focusing on the part related to the handling of anonymously processed information in the provisions of \"Guidelines for the Law Concerning the Protection of Personal Information\". It is a guideline.\r\nThe confirmation record obligation is easy to understand by focusing on the \"parts related to confirmation / recording obligations provided by third parties\" within the obligations of businesses stipulated by the law in the provisions of the \"Guidelines for the Law Concerning the Protection of Personal Information\". From the perspective of showing them as a whole, these guidelines are set separately from the general guidelines.",
+      "jp": "　個人情報保護法ガイドラインには、以下の3種が別途定められています。\r\n外国にある第三者への提供編とは、個人情報の適正な取り扱いの確保に関する活動の支援事業者が講ずる措置の適切かつ有効な実施を目的とした「個人情報の保護に関する法律についてのガイドライン」の規定のうち、外国にある第三者への個人データ提供に関する部分に特化してわかりやすく一体的に示す観点から、通則ガイドラインとは別に定められたものです。\r\n匿名加工情報編とは、「個人情報の保護に関する法律についてのガイドライン」の規定のうち、匿名加工情報の取り扱いに関する部分に特化してわかりやすく一体的に示す観点から、通則ガイドラインとは別に定められたガイドラインです。\r\n確認記録義務編とは、「個人情報の保護に関する法律についてのガイドライン」の規定のうち、法が定める事業者の義務内「第三者提供における確認・記録義務に関する部分」に特化して分かりやすく一体的に示す観点から、通則ガイドラインとは別に定められたガイドラインです。"
+    },
+    "category": {
+      "en": "Cyber Security Related",
+      "jp": "サイバーセキュリティ関連"
+    },
+    "subCategory": {
+      "en": "Standards/Guidelines",
+      "jp": "基準・ガイドライン"
+    }
+  },
+  {
+    "id": "623afb6a6ec20407ce3198b9",
+    "index": "skc-regulations",
+    "name": {
+      "en": "Copyright Law",
+      "jp": "著作権法"
+    },
+    "description": {
+      "en": "A creative expression of thought or emotion, a law that protects works that include literary, academic, art or music.\r\r\n",
+      "jp": "思想または感情を創作的に表現にしたもので、文芸、学術、美術または音楽が含まれる著作物を保護する法律。\r\n"
+    },
+    "notes": {
+      "en": "The copyright law is a law that protects copyrighted works such as novels, art, and music, and is one of the intellectual property laws along with the patent law, the utility model law, the design law, and the trademark law.\r\nThe copyright law is a law that aims to protect copyrighted works such as novels, art, and music, and to contribute to the development of culture, and rights are generated without registration by the administrative agency (non-formalism). Is the law. The rights stipulated in the Copyright Law are divided into the rights of authors and the rights of performers, record makers, broadcasters, and wired broadcasters. The rights of authors are divided into moral rights and copyright property rights.\r\nThis copyright law has been amended in 2018, 2020, and 2021. This has been revised to match the current trends of the times, such as pirated content and video distribution on smartphones.",
+      "jp": "著作権法は、小説や美術、音楽等の著作物を保護する法律であり、特許法、実用新案法、意匠法、商標法と並ぶ知的財産法の１つです。\r\n　著作権法は、小説や美術、音楽等の著作物を保護し、文化の発展に寄与することを目的とする法律であり、行政庁の登録を介さずに権利が発生する（無方式主義）の法律です。著作権法に規定される権利は、著作者の権利と実演家・レコード製作者・放送事業者・有線放送事業者の権利に二分されます。また著作者の権利は、著作者人格権と著作財産権に分けられます。\r\nこの著作権法は、2018年・2020年・2021年と改正が行われています。これは海賊版コンテンツやスマホ等での動画配信等、現在の時代の流れに合わせたものにする為、改正されたものです。\r\n\r\n"
+    },
+    "category": {
+      "en": "Intellectual Property Related Regulations",
+      "jp": "知的財産関連"
+    },
+    "subCategory": {
+      "en": "Regulations",
+      "jp": "法規"
+    }
+  },
+  {
+    "id": "623afb6a6ec20407ce3198ba",
+    "index": "skc-regulations",
+    "name": {
+      "en": "Unfair competition prevention Act ",
+      "jp": "不正競争防止法"
+    },
+    "description": {
+      "en": "A law that protects confidentially managed production, sales, and other technical or business information useful for business activities. Design Law Protects designs such as industrial designs",
+      "jp": "秘密として管理している生産方法、販売方法その他の事業活動に有用な技術上または営業上の情報を保護する法律。意匠法工業デザインなどの意匠を保護 "
+    },
+    "notes": {
+      "en": "The Unfair Competition Prevention Law is a law to ensure proper competition by ensuring that businesses comply with legitimate business activities. By prohibiting certain acts that hinder fair competition, we seek to secure fair competition and secure a fair market.\r\nSpecifically, it is a law that stipulates civil measures (right to demand injunction, etc.) and criminal measures as remedies for \"unfair competition\" in order to promote proper competition between businesses.\r\nRevised in 2015 and 2018, but most recently\r\n(1) Established civil measures against unauthorized acquisition of data, etc.\r\n(2) Regulations on acts that hinder the effects of protection technologies such as encryption have been tightened.\r\n\r\n",
+      "jp": "不正競争防止法とは、事業者間において正当な営業活動を遵守させることにより、適正な競争を確保するための法律です。公正な競争を阻害する一定の行為を禁止することによって、適正な競争を確保し、公正な市場を確保しようとするものです。\r\n具体的には、事業者間の適正な競争を促進するため『不正競争行為』に対 する救済措置として、民事措置（差止請求権等）や刑事措置を定める法律となります。\r\n2015年と2018年に改正されていますが、直近では\r\n① データの不正取得等に対する民事措置が創設、\r\n② 暗号等のプロテクト技術の効果を妨げる行為に対する規制が強化されています。\r\n\r\n"
+    },
+    "category": {
+      "en": "Intellectual Property Related Regulations",
+      "jp": "知的財産関連"
+    },
+    "subCategory": {
+      "en": "Regulations",
+      "jp": "法規"
+    }
+  },
+  {
+    "id": "623afb6a6ec20407ce3198bb",
+    "index": "skc-regulations",
+    "name": {
+      "en": "IP Strategy Guide for IP Professionals at Small Business Venture Startups\r\n",
+      "jp": "中小企業ベンチャースタートアップの知財担当者のための知財戦略ガイド\r\n"
+    },
+    "description": {
+      "en": "The purpose is to give SMEs, ventures, and start-up IP personnel the basic knowledge about intellectual property necessary for daily work.",
+      "jp": "中小企業、ベンチャー、スタートアップの知財担当者に、日々の業務を行なうにあたり必要な知的財産に関する基本的な知識を得ていただくことを目的"
+    },
+    "notes": {
+      "en": "It is said that IP strategy requires a trinity strategy linked with business strategy and R & D strategy. Therefore, the person in charge of intellectual property needs knowledge of the company's business and technology, and also needs knowledge of laws such as the Patent Law to acquire intellectual property rights such as patent rights. In this way, the person in charge of IP\r\nSince the knowledge required for a patent is diverse, it is normal to work in consultation with a patent attorney who is an expert in intellectual property. This is also the case for large companies that have an intellectual property department.\r\nIntellectual property personnel are a bridge between internal and external patent attorneys. When a new idea is born in the company, it takes some knowledge to regard it as intellectual property and consult with a patent attorney. It is necessary to be aware of the acquisition of rights as a means of utilizing the ideas generated in-house in the business. again,\r\nYou need to know what to consult and when to ask a patent attorney. If we can do that, we will be able to work smoothly with patent attorneys and lead the business to success.\r\nThis guide is a collection of useful information for IP personnel from this perspective.",
+      "jp": "知財戦略は事業戦略、研究開発戦略と連携した三位一体の戦略が必要であるといわれています。そのため、知財担当者には自社の事業や技術の知識が必要であるほか、特許権などの知的財産権を取得するには特許法などの法律の知識も必要です。このように、知財担当者\r\nに求められる知識は多岐にわたるため、知的財産の専門家である弁理士と相談しつつ、業務を行なうことが通常です。このことは、知的財産部を有する大企業でも同じです。\r\n知財担当者は社内と社外の弁理士との架け橋となる存在です。社内で新たなアイデアが生まれたときに、それを知的財産と捉え弁理士に相談するには、ある程度の知識が必要です。社内で生まれたアイデアを事業に活かす手段として権利化に気付く必要があります。また、\r\n弁理士に対して何をどのタイミングで相談、依頼すべきかを知っておく必要があります。それができれば、弁理士とのスムーズな連携が可能となり、事業を成功に導くことができるでしょう。\r\n本ガイドは、このような視点で、知財担当者にとって役に立つ情報をまとめたもの"
+    },
+    "category": {
+      "en": "Intellectual Property Related Regulations",
+      "jp": "知的財産関連"
+    },
+    "subCategory": {
+      "en": "Standards/Guidelines",
+      "jp": "基準・ガイドライン"
+    }
+  },
+  {
+    "id": "623afb6a6ec20407ce3198bc",
+    "index": "skc-regulations",
+    "name": {
+      "en": "Labor Standards Act",
+      "jp": "労働基準法"
+    },
+    "description": {
+      "en": "The \"Labor Standards Law\" is a law that sets minimum standards for working conditions and is the most basic law that regulates labor contracts.",
+      "jp": "「労働基準法」とは、労働条件に関する最低基準を定めた法律であり、労働契約関係について規定する最も基本的な法律"
+    },
+    "notes": {
+      "en": "The Labor Standards Law is a Japanese law that sets the minimum standards for working conditions, and was enacted in 1947 based on Article 27, Paragraph 2 of the Constitution of Japan.\r\nFor the purpose of guaranteeing the survival rights of workers, we have set minimum standards as working conditions for items such as labor contracts, wages, working hours, holidays and annual paid leave, accident compensation, and work regulations. This Labor Standards Law (hereinafter referred to as the \"Labor Standards Law\") is a law that must be observed by employers (hereinafter referred to as \"company\") who use at least one worker (hereinafter referred to as \"employee\"). am.\r\nOriginally, contracts can be decided by the free will of the parties, so it should be free for companies and employees to set working conditions (principle of freedom of contract).\r\nHowever, given the difference in power between the company and its employees, it is clear that the company can contract in an advantageous position.\r\nTherefore, we decided to protect our employees by restricting the principle of freedom of contract to a certain extent under the Labor Standards Act.\r\nThe Labor Standards Act protects the rights of employees by stipulating certain rules regarding wages, working hours, leave, etc., and penalizing companies that violate them.",
+      "jp": "労働基準法とは、労働条件の最低基準を定める日本の法律で、日本国憲法第27条第2項に基づいて1947年に制定されました。\r\n労働者が持つ生存権の保障を目的として、労働契約や賃金、労働時間、休日および年次有給休暇、災害補償、就業規則などの項目について、労働条件としての最低基準を定めています。この労働基準法（以下「労基法」といいます）は、一人でも労働者（以下「従業員」といいます）を使用する使用者（以下「会社」といいます）が守らなくてはいけない法律です。\r\n本来、契約は当事者の自由な意思によって決定できるので、企業と従業員がどのような労働条件を定めるかは自由のはずです（契約自由の原則）。\r\nしかし、企業と従業員の力の差を考えると、企業が有利な立場で契約できることは明白です。\r\nそこで、労基法により契約自由の原則に一定の規制をすることで、従業員を保護することにしました。\r\n労基法は、賃金や労働時間、休暇等について一定のルールを定め、これに違反した企業には罰則を与えることで、従業員の権利を保護しています。\r\n"
+    },
+    "category": {
+      "en": "Labor Related Regulations",
+      "jp": "労働関連"
+    },
+    "subCategory": {
+      "en": "Regulations",
+      "jp": "法規"
+    }
+  },
+  {
+    "id": "623afb6a6ec20407ce3198bd",
+    "index": "skc-regulations",
+    "name": {
+      "en": "Labor Standards Act Overview Guide",
+      "jp": "労働基準法のあらましガイド"
+    },
+    "description": {
+      "en": "This booklet summarizes the basic rules of working style that you want to know only this.",
+      "jp": "この冊子はこれだけは知っておいて欲しいという働き方の基本となるルールをまとめたもの"
+    },
+    "notes": {
+      "en": "A collection of 28 basic rules related to working from labor contracts to working hours, leave / wages, retirement / dismissal, and harassment. Items and questions that you should know are also described in each item in the form of Point, Pick up, and Q & A, unlike the main text. Inquiries from the Labor Standards Inspection Office are also included, and it is a booklet that you should definitely read in order to improve long working hours.",
+      "jp": "労働契約から労働時間や休暇・賃金、退職や解雇、ハラスメントまで働く上で関係する基本的なルールを28項目にわたってまとめたもの。知っておいた方がよい項目や疑問等もPointやPick up、またQ&Aという形で本文とは違ってそれぞれの項目に記載されている。労働基準監督署の問い合わせも記載しており、長時間労働等を改善するにはぜひ読んでおきたい冊子の構成となっている。"
+    },
+    "category": {
+      "en": "Labor Related Regulations",
+      "jp": "労働関連"
+    },
+    "subCategory": {
+      "en": "Standards/Guidelines",
+      "jp": "基準・ガイドライン"
+    }
+  },
+  {
+    "id": "623afb6a6ec20407ce3198be",
+    "index": "skc-regulations",
+    "name": {
+      "en": "Telecommunications Business Act",
+      "jp": "電気通信事業法"
+    },
+    "description": {
+      "en": "A law enacted to ensure the sound development of telecommunications and the convenience of the people, including detailed provisions regarding the telecommunications business.",
+      "jp": " 電気通信の健全な発達と国民の利便の確保を図るために制定された法律で、電気通信事業に関する詳細な規定が盛り込まれたもの"
+    },
+    "notes": {
+      "en": "In view of the public nature of the telecommunications business, this law ensures the smooth provision of telecommunications services by making its operation appropriate and rational and promoting its fair competition (①). The purpose is to promote the public welfare by (2)) and protecting the interests of its users (3), ensuring the sound development of telecommunications and the convenience of the people.\r\r\n(1) Promotion of fair competition: Realization of a wide variety of services at low cost\r\r\n(2) Ensuring the smooth provision of telecommunications services: Realization of a reliable and stable network\r\r\n(3) Protection of user interests: Realization of an environment where anyone can use with peace of mind\r\r\n\r\r\n\r\r\n\r\r\n",
+      "jp": "この法律は、電気通信事業の公共性に鑑み、その運営を適正かつ合理的なものとするとともに、その公正 な競争を促進（①）することにより、電気通信役務の円滑な提供を確保（②）するとともにその利用者の利益を保護 （③）し、もつて電気通信の健全な発達及び国民の利便の確保を図り、公共の福祉を増進することを目的とする。\r\n①公正競争の促進・・・ 低廉で多種多様なサービスの実現\r\n②電気通信役務の円滑な提供の確保・・・確実かつ安定したネットワークの実現\r\n③利用者利益の保護・・・誰もが安心して利用できる環境の実現\r\n\r\n\r\n\r\n"
+    },
+    "category": {
+      "en": "Others",
+      "jp": "その他"
+    },
+    "subCategory": {
+      "en": "Regulations",
+      "jp": "法規"
+    }
+  },
+  {
+    "id": "623afb6a6ec20407ce3198bf",
+    "index": "skc-regulations",
+    "name": {
+      "en": "Gas Business Act",
+      "jp": "ガス事業法"
+    },
+    "description": {
+      "en": "A law that stipulates regulations for businesses that supply gas through pipelines (so-called city gas business) for the purpose of ensuring security and protecting consumers.",
+      "jp": "導管によりガスを供給する事業（いわゆる都市ガス事業）に関して、保安の確保や需要家の保護を目的として事業者への規制を定める法律"
+    },
+    "notes": {
+      "en": "The regulation law of gas business in Japan enacted in 1954 (Showa 29). Under the law, the gas business is regarded as a public utility business like the electric power business, and it is stipulated that it is responsible for supply instead of being granted a supply monopoly within the established supply area, and the charge is \"cost-based\". It has been stipulated that \"fair compensation\" and \"fairness among consumers\" are approved in principle. Since the 1990s, the liberalization of tariff setting for large consumers has been gradually promoted, and the law was revised in 1995 and 1999.",
+      "jp": "1954年（昭和29）に制定されたわが国におけるガス事業の規制法。同法においては、ガス事業は電気事業と同様に公益事業と位置づけられ、制定された供給区域内において供給独占が認められるかわりに供給責任を負うと定められ、かつ、その料金は「原価主義」「公正報酬」「需要家間の公平」を原則として認可されると規定されてきた。1990年代以降，大口需要家向けの料金設定などについて徐々に自由化が進められており、1995年・1999年と同法が改正されている。"
+    },
+    "category": {
+      "en": "Others",
+      "jp": "その他"
+    },
+    "subCategory": {
+      "en": "Regulations",
+      "jp": "法規"
+    }
+  },
+  {
+    "id": "623afb6a6ec20407ce3198c0",
+    "index": "skc-regulations",
+    "name": {
+      "en": "Guidelines for Consumer protection of the Telecommunications Business Law ",
+      "jp": "電気通信事業法の消費者保護ルールに関するガイドライン "
+    },
+    "description": {
+      "en": "Telecommunications service\r\r\nClarify specific consumer protection rules for consumers with peace of mind\r\r\n-To make the service available and to enhance the protection of users. ",
+      "jp": "電気通信サービス\r\nの具体的な消費者保護ルールについて明確化を図り、消費者が安心して電気通信サ\r\nービスを利用できるようにすることとともに、利用者の保護の充実を図るもの"
+    },
+    "notes": {
+      "en": "User protection discipline of the Telecommunications Business Law and based on this\r\r\nIn addition to explaining the contents of the provisions of the law, in relation to these provisions, on behalf of general consumers\r\r\nTelecommunications carriers, etc. (telecommunications carriers and theirs) from the perspective of protecting the interests of the represented users.\r\r\nAgency (business consignee such as notification mediation). same as below. ) Basically must be observed\r\r\nAnd explain the measures that are considered desirable to take voluntarily. ",
+      "jp": "電気通信事業法の利用者保護規律及びこれに基づく下\r\n位法令の規定の内容を解説するとともに、これらの規定に関連して、一般消費者に代\r\n表される利用者の利益の保護の観点から電気通信事業者等（電気通信事業者及びそ\r\nの代理店（届出媒介等業務受託者）をいう。以下同じ。）が基本的に遵守すべき事項及\r\nび自主的に取ることが望ましいと考えられる対応について解説する"
+    },
+    "category": {
+      "en": "Others",
+      "jp": "その他"
+    },
+    "subCategory": {
+      "en": "Standards/Guidelines",
+      "jp": "基準・ガイドライン"
+    }
+  }
+]

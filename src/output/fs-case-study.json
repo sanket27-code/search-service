@@ -1,0 +1,50 @@
+[
+  {
+    "id": "62e22d46e237e6c186d8323a",
+    "index": "financial-simulation-case-studies",
+    "name": "Case Study 1",
+    "sector": "GOVERNMENT, EXCEPT ELSEWHERE CLASSIFIED"
+  },
+  {
+    "id": "62e22ea8e237e6c186d8323c",
+    "index": "financial-simulation-case-studies",
+    "name": "Case Study 2",
+    "sector": "MANUFACTURING"
+  },
+  {
+    "id": "62e22f07e237e6c186d8323e",
+    "index": "financial-simulation-case-studies",
+    "name": "Case Study 3",
+    "sector": "WHOLESALE AND RETAIL TRADE"
+  },
+  {
+    "id": "62e22fa9e237e6c186d83240",
+    "index": "financial-simulation-case-studies",
+    "name": "Case Study 4",
+    "sector": "SCIENTIFIC RESEARCH, PROFESSIONAL AND TECHNICAL SERVICES"
+  },
+  {
+    "id": "62e22ffbe237e6c186d83242",
+    "index": "financial-simulation-case-studies",
+    "name": "ケーススタディ2",
+    "sector": "製造業"
+  },
+  {
+    "id": "62e23043e237e6c186d83244",
+    "index": "financial-simulation-case-studies",
+    "name": "ケーススタディ3",
+    "sector": "公務（他に分類されるものを除く）"
+  },
+  {
+    "id": "62f20b4df684145e659766ba",
+    "index": "financial-simulation-case-studies",
+    "name": "Case Study 5",
+    "sector": "CONSTRUCTION"
+  },
+  {
+    "id": "62f20b9ef684145e6597683d",
+    "index": "financial-simulation-case-studies",
+    "name": "ケーススタディ3",
+    "sector": "学術研究，専門・技術サービス業"
+  }
+]

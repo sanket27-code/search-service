@@ -1,0 +1,222 @@
+
+
+
+1. attack-vector
+
+// for parent attack data: DONE
+index : "attack-vector"
+{
+    "id":"parentid",
+    "name": {
+        "en":"",
+        "jp":""
+    },
+    "description":{
+        "en":"",
+        "jp":""
+    }    
+}
+
+// for child attack-data: DONE
+index : "attack-vector"
+
+{
+    "id":"childid",
+    "name":{
+        "en":"",
+        "jp":""
+    },
+    "description":{
+        "en":"",
+        "jp":""
+    },      
+    "parentId":"",
+    "parentName":{
+        "en":"",
+        "jp":""
+    },
+    "parentDescription":{
+        "en":"",
+        "jp":""
+    } 
+}
+
+
+2. attack-data // DONE
+index: "attack-data"
+{
+    "id":"",
+    "name":{
+        "en":"",
+        "jp":""
+    },
+    "description":{
+        "en":"",
+        "jp":""
+    },
+    "companyId":"xyz",
+    "companyName":{
+        "en":"toyota",
+        "jp":""
+    }
+}
+
+
+3.news feed : // DONE
+index:"news-feeds"
+{
+ "id": "",
+ "name":{
+    "en":"",
+    "jp":""
+},
+"description":{
+    "en":"",
+    "jp":""
+},
+"industrySector":{
+    "en":"",
+    "jp":""
+}
+}
+
+
+4. posture-assessment
+
+// index : posture-assessment (add companyName)
+{
+    "id":"assessmentId",
+    "name":{
+        "en":"",
+        "jp":""
+    },
+    "companyId":"",
+    "companyName":{
+        "en":"",
+        "jp":""
+    },
+    "status":"",
+    "questionnaireType":{
+        "en":"",
+        "jp":""
+    }
+}
+
+// index : posture-assessment: (add companyName)
+{
+    "id":"companyId",
+    "assessmentId":"",
+    "companyName":{
+        "en":"",
+        "jp":""
+    }
+}
+
+
+
+5. sales-pitch
+// index: sales-pitch (add companyName)
+{
+    "id":"salesPitchId",
+    "name":"",
+    "companyId":"",
+    "companyName":{
+        "en":"",
+        "jp":""
+    },
+}
+
+// index: sales-pitch: (add companyName)
+{
+    "companyId":"",
+    "companyName":{
+        "en":"",
+        "jp":""
+    },
+}
+
+
+6. skc-faq-questions:
+// index : skc-faq-questions : DONE
+{
+    "id":"",
+    "name":{
+        "en":"",
+        "jp":""
+    },
+    "answer": {
+        "description":{
+            "en":"",
+            "jp":""
+        }
+    }
+}
+
+
+7. skc-glossary
+// index : skc-glossary: DONE
+{
+    "id":"",
+    "name":{
+        "en":"",
+        "jp":""
+    }
+}
+
+8. skc-regulations
+// index : skc-regulations: DONE
+{
+    "id": "",
+    "category": {
+        "en": "",
+        "jp": ""
+      },
+    "subCategory": {
+        "en": "",
+        "jp": ""
+      },
+    "name":{
+        "en":"",
+        "jp":""
+    },
+    "description":{
+        "en":"",
+        "jp":""
+    },
+    "notes":{
+        "en":"",
+        "jp":""
+    },
+}
+
+
+7. cyber-insurance 
+// for insurance-data-collections: DONE
+{
+    "id":"",
+    "category":"insurance-data-collections",
+    "name":{
+        "en":"",
+        "jp":""
+    },
+    "description":{
+        "en":"",
+        "jp":""
+    },
+}
+
+// for insurance-data-collections: DONE
+{
+    "id":"",
+    "category":"insurance-product-brochures",
+    "name":{
+        "en":"",
+        "jp":""
+    },
+    "description":{
+        "en":"",
+        "jp":""
+    }    
+}
+
+

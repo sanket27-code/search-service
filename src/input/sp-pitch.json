@@ -1,0 +1,750 @@
+[{
+  "_id": {
+    "$oid": "628b23b4752d11cea97d3db5"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e220",
+  "name": "Honda"
+},{
+  "_id": {
+    "$oid": "628b2d2d752d11cea97d440b"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e220",
+  "name": "Toyota"
+},{
+  "_id": {
+    "$oid": "628b75e2752d11cea97d74d9"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e220",
+  "name": ""
+},{
+  "_id": {
+    "$oid": "628b8e6314714a33471f3f90"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e225",
+  "name": ""
+},{
+  "_id": {
+    "$oid": "628c7a1a14714a33471f5a66"
+  },
+  "type": "sales-pitch",
+  "companyId": "",
+  "name": ""
+},{
+  "_id": {
+    "$oid": "628c7cec14714a33471f5a9b"
+  },
+  "type": "sales-pitch",
+  "companyId": "",
+  "name": ""
+},{
+  "_id": {
+    "$oid": "628c83b014714a33471f5dc8"
+  },
+  "type": "sales-pitch",
+  "companyId": "",
+  "name": ""
+},{
+  "_id": {
+    "$oid": "628caecc14714a33471f66ae"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e26a",
+  "name": "Nippon Express Demo"
+},{
+  "_id": {
+    "$oid": "628e3faa14714a33471fb15d"
+  },
+  "type": "sales-pitch",
+  "companyId": "",
+  "name": ""
+},{
+  "_id": {
+    "$oid": "628e52c414714a33471fb652"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e238",
+  "name": ""
+},{
+  "_id": {
+    "$oid": "628e530814714a33471fb6e9"
+  },
+  "type": "sales-pitch",
+  "companyId": "62864debf21ef4410f63c3fb",
+  "name": ""
+},{
+  "_id": {
+    "$oid": "628e53a614714a33471fb719"
+  },
+  "type": "sales-pitch",
+  "companyId": "62864debf21ef4410f63c3fb",
+  "name": ""
+},{
+  "_id": {
+    "$oid": "628e53aa14714a33471fb71d"
+  },
+  "type": "sales-pitch",
+  "companyId": "62864debf21ef4410f63c3fb",
+  "name": ""
+},{
+  "_id": {
+    "$oid": "628e549b14714a33471fb77a"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e231",
+  "name": ""
+},{
+  "_id": {
+    "$oid": "628e54f814714a33471fb78c"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e225",
+  "name": "クラシエホールディングス株式会社"
+},{
+  "_id": {
+    "$oid": "628e551b14714a33471fb7ab"
+  },
+  "type": "sales-pitch",
+  "companyId": "62864debf21ef4410f63c3fb",
+  "name": "Nippon Express Co., Ltd."
+},{
+  "_id": {
+    "$oid": "628e57d114714a33471fb93a"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e225",
+  "name": "Kracie Holdings, Ltd."
+},{
+  "_id": {
+    "$oid": "628e588214714a33471fb941"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e225",
+  "name": ""
+},{
+  "_id": {
+    "$oid": "628e593c14714a33471fb94e"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e225",
+  "name": "クラシエホールディングス株式会社"
+},{
+  "_id": {
+    "$oid": "628e594f14714a33471fb95e"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e26b",
+  "name": "Genre"
+},{
+  "_id": {
+    "$oid": "628e5f5514714a33471fbaa7"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e26a",
+  "name": "日本通運株式会社"
+},{
+  "_id": {
+    "$oid": "628f0d0e14714a33471fc634"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e278",
+  "name": "Ground Works Co., Ltd."
+},{
+  "_id": {
+    "$oid": "6294ab70b00e54010e06a553"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e26a",
+  "name": ""
+},{
+  "_id": {
+    "$oid": "6295a366b00e54010e06c082"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e225",
+  "name": ""
+},{
+  "_id": {
+    "$oid": "6295c843b00e54010e06c927"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e225",
+  "name": "Kracie Holdings, Ltd."
+},{
+  "_id": {
+    "$oid": "629de809d21ebb4bceee69e9"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e26a",
+  "name": ""
+},{
+  "_id": {
+    "$oid": "629df79ed21ebb4bceee71f8"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e26a",
+  "name": "Nippon Express Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62a1902314d058a9eee5daeb"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e225",
+  "name": ""
+},{
+  "_id": {
+    "$oid": "62a1915514d058a9eee5db48"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e225",
+  "name": "Kracie Holdings, Ltd."
+},{
+  "_id": {
+    "$oid": "62a1916d14d058a9eee5db56"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e225",
+  "name": "Kracie Holdings, Ltd."
+},{
+  "_id": {
+    "$oid": "62a191eb14d058a9eee5db72"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e26a",
+  "name": "sadas"
+},{
+  "_id": {
+    "$oid": "62a1922514d058a9eee5db87"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e26a",
+  "name": "hii"
+},{
+  "_id": {
+    "$oid": "62a1924a14d058a9eee5db95"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e26a",
+  "name": "Nippon Express Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62a1926914d058a9eee5dba3"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e26a",
+  "name": "ooo"
+},{
+  "_id": {
+    "$oid": "62a19ad614d058a9eee5dcab"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e225",
+  "name": ""
+},{
+  "_id": {
+    "$oid": "62a19b5914d058a9eee5dce4"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e225",
+  "name": "Kracie Holdings, Ltd."
+},{
+  "_id": {
+    "$oid": "62a6db365a550a12144f77d7"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e244",
+  "name": ""
+},{
+  "_id": {
+    "$oid": "62a6e4d55a550a12144f7930"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e227",
+  "name": "Kawasaki Motors Japan Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62a6e4f25a550a12144f7948"
+  },
+  "type": "sales-pitch",
+  "companyId": "627bca119feeed8535a314b2",
+  "name": "Nippon Express Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62a6e5295a550a12144f7960"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e282",
+  "name": "Echizen City, Fukui Prefecture"
+},{
+  "_id": {
+    "$oid": "62a6e5725a550a12144f797d"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e227",
+  "name": "Kawasaki Motors Japan Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62a6f7245a550a12144f7c28"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e26a",
+  "name": "Nippon Express Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62a6fb1b5a550a12144f7d52"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e22f",
+  "name": "Mie Prefecture"
+},{
+  "_id": {
+    "$oid": "62a707645a550a12144f7eab"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e227",
+  "name": "Kawasaki Motors Japan Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62a70a495a550a12144f7fc1"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e223",
+  "name": "Wacoal Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62a715ca5a550a12144f80f4"
+  },
+  "type": "sales-pitch",
+  "companyId": "6281eb899feeed8535a38a56",
+  "name": ""
+},{
+  "_id": {
+    "$oid": "62a724025a550a12144f824d"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e26b",
+  "name": "General incorporated associationDanNippon Professional Baseball Organization"
+},{
+  "_id": {
+    "$oid": "62a728865a550a12144f82fd"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e255",
+  "name": "Panasonic Corporation"
+},{
+  "_id": {
+    "$oid": "62a737605a550a12144f84fd"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e2d6",
+  "name": ""
+},{
+  "_id": {
+    "$oid": "62a737e85a550a12144f850d"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e2d6",
+  "name": ""
+},{
+  "_id": {
+    "$oid": "62a831ec5a550a12144f93f7"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e223",
+  "name": "Wacoal Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62a83bfb5a550a12144f94ab"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e236",
+  "name": "Akibasan Park Prefectural Swimming Pool"
+},{
+  "_id": {
+    "$oid": "62a87b725a550a12144f9975"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e223",
+  "name": "Wacoal Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62b168b25a550a12144fc1d9"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e251",
+  "name": "Denso Corporation"
+},{
+  "_id": {
+    "$oid": "62b9eb915a550a12144fc844"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e26a",
+  "name": ""
+},{
+  "_id": {
+    "$oid": "62beb4a96046c2e9231d7a1a"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e26a",
+  "name": "Nippon Express Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62beb5216046c2e9231d7a2e"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e2b9",
+  "name": "Hakusan Shinkin Bank"
+},{
+  "_id": {
+    "$oid": "62beb7656046c2e9231d7a42"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e26b",
+  "name": "General incorporated associationDanNippon Professional Baseball Organization"
+},{
+  "_id": {
+    "$oid": "62bebf046046c2e9231d7a94"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e22f",
+  "name": "Mie Prefecture"
+},{
+  "_id": {
+    "$oid": "62bec1a76046c2e9231d7aec"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e259",
+  "name": "Tokyo"
+},{
+  "_id": {
+    "$oid": "62c689806046c2e9231d7b70"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e251",
+  "name": "Denso Corporation"
+},{
+  "_id": {
+    "$oid": "62c6b1da6046c2e9231d7bb2"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e26a",
+  "name": "Nippon Express Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62c6de9a6046c2e9231d7beb"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e236",
+  "name": "Akibasan Park Prefectural Swimming Pool"
+},{
+  "_id": {
+    "$oid": "62d14bb64553edf71841c394"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e26a",
+  "name": "Nippon Express Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62d15c954553edf71841c3e4"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e26a",
+  "name": "Nippon Express Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62d68e78755da81f0e583181"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e247",
+  "name": "Marquand Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62de6413fe6d5c1fc4ebc5a7"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e2cc",
+  "name": "Shiga Prefectural Industrial Support Plaza"
+},{
+  "_id": {
+    "$oid": "62e0dec3fe6d5c1fc4ebc66f"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e25c",
+  "name": "Social Welfare Corporation National Council of Social Welfare"
+},{
+  "_id": {
+    "$oid": "62e0e5fcfe6d5c1fc4ebc6a9"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e251",
+  "name": "Denso Corporation"
+},{
+  "_id": {
+    "$oid": "62e21561fe6d5c1fc4ebc6fc"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e239",
+  "name": "Toyama Prefecture"
+},{
+  "_id": {
+    "$oid": "62e258a5fe6d5c1fc4ebc80f"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e224",
+  "name": "Toshiba Lifestyle Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62e258b4fe6d5c1fc4ebc81b"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e224",
+  "name": "Toshiba Lifestyle Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62e258c1fe6d5c1fc4ebc827"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e224",
+  "name": "Toshiba Lifestyle Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62e258defe6d5c1fc4ebc837"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e29f",
+  "name": "DesignArc Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62e258e7fe6d5c1fc4ebc843"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e29f",
+  "name": "DesignArc Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62e258f1fe6d5c1fc4ebc84f"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e29f",
+  "name": "DesignArc Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62e25a61fe6d5c1fc4ebc887"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e238",
+  "name": "株式会社And Doホールディングス"
+},{
+  "_id": {
+    "$oid": "62e25a90fe6d5c1fc4ebc8a1"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e28e",
+  "name": "Yamadai Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62e25aa8fe6d5c1fc4ebc8b2"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e28e",
+  "name": "Yamadai Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62e25ad7fe6d5c1fc4ebc8c4"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e263",
+  "name": "Sync Happiness Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62e25ae6fe6d5c1fc4ebc8d4"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e2b9",
+  "name": "Hakusan Shinkin Bank"
+},{
+  "_id": {
+    "$oid": "62e25af7fe6d5c1fc4ebc8e4"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e278",
+  "name": "Ground Works Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62e25b0efe6d5c1fc4ebc8f4"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e26b",
+  "name": "General incorporated associationDanNippon Professional Baseball Organization"
+},{
+  "_id": {
+    "$oid": "62e25b24fe6d5c1fc4ebc90a"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e236",
+  "name": "Akibasan Park Prefectural Swimming Pool"
+},{
+  "_id": {
+    "$oid": "62e26283fe6d5c1fc4ebc9ac"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e263",
+  "name": "Sync Happiness Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62e26299fe6d5c1fc4ebc9be"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e285",
+  "name": "Dentsu International Information Services Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62e262d0fe6d5c1fc4ebc9d0"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e225",
+  "name": "Kracie Holdings, Ltd."
+},{
+  "_id": {
+    "$oid": "62e264cffe6d5c1fc4ebca19"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e236",
+  "name": ""
+},{
+  "_id": {
+    "$oid": "62e264e0fe6d5c1fc4ebca22"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e26f",
+  "name": "株式会社DRESS DESIGN WORKS"
+},{
+  "_id": {
+    "$oid": "62ea7869e21f949c4c998e6a"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e2d7",
+  "name": "PR TIMES Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62eb5f46e21f949c4c998ec3"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e228",
+  "name": "OffshoreropePrefecture"
+},{
+  "_id": {
+    "$oid": "62eb5f59e21f949c4c998ed7"
+  },
+  "type": "sales-pitch",
+  "companyId": "",
+  "name": ""
+},{
+  "_id": {
+    "$oid": "62eb60d2e21f949c4c998ef5"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e228",
+  "name": "OffshoreropePrefecture"
+},{
+  "_id": {
+    "$oid": "62eb613ae21f949c4c998f11"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e228",
+  "name": "OffshoreropePrefecture"
+},{
+  "_id": {
+    "$oid": "62eb614de21f949c4c998f21"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e221",
+  "name": "Chiba"
+},{
+  "_id": {
+    "$oid": "62eb6163e21f949c4c998f2f"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e221",
+  "name": "Chiba"
+},{
+  "_id": {
+    "$oid": "62eb61b2e21f949c4c998f4f"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e251",
+  "name": "Denso Corporation"
+},{
+  "_id": {
+    "$oid": "62eb61cae21f949c4c998f5d"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e251",
+  "name": ""
+},{
+  "_id": {
+    "$oid": "62eb6414e21f949c4c998f9b"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e224",
+  "name": "Toshiba Lifestyle Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62eb642fe21f949c4c998faf"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e224",
+  "name": "Toshiba Lifestyle Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62eb65b1e21f949c4c998fe3"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e251",
+  "name": "Denso Corporation"
+},{
+  "_id": {
+    "$oid": "62eb6674e21f949c4c999003"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e2d7",
+  "name": "PR TIMES Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62eb6993e21f949c4c99902c"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e224",
+  "name": "Toshiba Lifestyle Co., Ltd."
+},{
+  "_id": {
+    "$oid": "62eb6db6e21f949c4c999062"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e239",
+  "name": "Toyama Prefecture"
+},{
+  "_id": {
+    "$oid": "62eb95cce21f949c4c9990a8"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e251",
+  "name": "Denso Corporation"
+},{
+  "_id": {
+    "$oid": "62eba4bee21f949c4c9990c5"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e251",
+  "name": "Denso Corporation"
+},{
+  "_id": {
+    "$oid": "62f216e8e21f949c4c999183"
+  },
+  "type": "sales-pitch",
+  "companyId": "6246b3be9e564b61e102e23b",
+  "name": ""
+}]

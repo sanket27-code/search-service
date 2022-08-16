@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "62d8e8046d968c8ce9e21ad5"
+  },
+  "type": "security-rating-report",
+  "companyId": "string",
+  "companyName": {
+    "en": "string",
+    "jp": "string"
+  }
+}]

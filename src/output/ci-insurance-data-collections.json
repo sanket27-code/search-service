@@ -1,0 +1,54 @@
+[
+  {
+    "id": "6256b19678db72a819f8087d",
+    "index": "cyber-insurance",
+    "category": "insurance-data-collections",
+    "name": {
+      "jp": "「中小企業のリスク意識・対策実態調査2021」調査結果報告書",
+      "en": ""
+    },
+    "description": {
+      "jp": "中小企業の経営者と従業員1,031名を対象に、企業を取り巻くリスクに対する意識・対策実態調査です。",
+      "en": ""
+    }
+  },
+  {
+    "id": "6256b19678db72a819f8087e",
+    "index": "cyber-insurance",
+    "category": "insurance-data-collections",
+    "name": {
+      "jp": "国内企業のサイバーリスク意識・対策実態調査2020",
+      "en": ""
+    },
+    "description": {
+      "jp": "「新しい生活様式」における企業のサイバーリスクに対する意識や最新の対策状況を把握するため、国内企業の経営者や管理部門の方を対象にアンケート調査を行いました。",
+      "en": ""
+    }
+  },
+  {
+    "id": "6256b19678db72a819f8087f",
+    "index": "cyber-insurance",
+    "category": "insurance-data-collections",
+    "name": {
+      "jp": "米国を中心とするサイバーインシデント・サイバー保険市場の動向",
+      "en": ""
+    },
+    "description": {
+      "jp": "米国中心にサイバーインシデント・サイバー保険市場の動向についてまとめた資料です。",
+      "en": ""
+    }
+  },
+  {
+    "id": "6256b19678db72a819f80880",
+    "index": "cyber-insurance",
+    "category": "insurance-data-collections",
+    "name": {
+      "en": "Insurance 2020 & beyond: Reaping the dividends of cyber resilience ",
+      "jp": ""
+    },
+    "description": {
+      "en": "Report from PWC regarding the global Cyber Insurance market ",
+      "jp": ""
+    }
+  }
+]

@@ -1,0 +1,734 @@
+[{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce31987d"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "How do I start using the application? ",
+    "jp": "アプリケーションの利用を開始するにはどうすればよいですか？"
+  },
+  "answer": {
+    "description": {
+      "en": "There is no specific sequence, you can go to any feature depending on your requirement",
+      "jp": "特定の順序はなく、要件に応じてどの機能にも行くことができます。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce31987e"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "Does my information get shared with other users? ",
+    "jp": "自分の情報は他のユーザーと共有されるのでしょうか？"
+  },
+  "answer": {
+    "description": {
+      "en": "No, we follow strict tenancy rules and your information is not shared with other customers. Please refer to the table on this link to know more details.",
+      "jp": "いいえ、厳密な賃貸規則に従っており、お客様の情報を他のお客様と共有することはありません。詳しくはこちらの表をご覧ください。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce31987f"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "How does the personal information data is protected?",
+    "jp": "個人情報はどのように保護されるのですか？"
+  },
+  "answer": {
+    "description": {
+      "en": "We follow 'zero trust policy' and have implemented a full proof data security infrastructure to protect the Customer's data",
+      "jp": "弊社は「ゼロ・トラスト・ポリシー」に従い、お客様のデータを保護するため、完全なデータ・セキュリティ・インフラを導入しています。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce319880"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "Can I configure my dashboard? ",
+    "jp": "ダッシュボードの設定は可能ですか？"
+  },
+  "answer": {
+    "description": {
+      "en": "Yes, you can change the contents of the dashboard. Here is the link to find out more on this   - Link to a video file",
+      "jp": "はい、ダッシュボードの内容を変更することができます。この詳細については、次のリンクを参照してください。 －動画ファイルへのリンク"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce319881"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "How Attack Vector information can be used?  \r\n\r\n",
+    "jp": "攻撃ベクトル情報はどのように利用できるのですか？"
+  },
+  "answer": {
+    "description": {
+      "en": "Your customers might have questions about how cyber security attacks happen. By using this feature you can explain them with audio visual aids which makes it easy to explain",
+      "jp": "サイバーセキュリティ攻撃はどのように起こるのか、お客様は疑問に思うかもしれません。この機能を使うことで、オーディオビジュアルを使った説明が可能になり、簡単に説明することができます。\r\n"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce319882"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "Can more Attack Vectors be added?\r\n",
+    "jp": "攻撃ベクトルを増やすことはできますか？"
+  },
+  "answer": {
+    "description": {
+      "en": "We have added almost all Attack Vectors, however, if you would like to add any, please send a message through Feedback Feature Link\r\n",
+      "jp": "現在、ほぼ全てのアタックベクターを追加していますが、追加を希望される方は、フィードバックリンクからメッセージをお送りください。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce319883"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "I do not understand the information for   attack Vector, can you add more information and  change the explanation provided?",
+    "jp": "攻撃ベクターの情報がよくわからないのですが、情報の追加や説明の変更は可能ですか？"
+  },
+  "answer": {
+    "description": {
+      "en": "Please let us know what was difficult to understand  through - a feedback <link> –. We would make it more easy to understand.  ",
+      "jp": "わかりにくかった点は、フィードバックリンクでお知らせください。よりわかりやすくいたします。 \r\n"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce319884"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "What is the source of the attack data? \r\n\r\n",
+    "jp": "攻撃データの出典は何ですか？"
+  },
+  "answer": {
+    "description": {
+      "en": "(The source of attack data is provided here ----. A link to original data source is provided wherever possible) ",
+      "jp": "攻撃データの出典はこちら ----。可能な限り、元のデータソースへのリンクを提供します)。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce319885"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "\r\nIf the attack information is shared by the company with the Insurance Agent, can that be added in the data?",
+    "jp": "攻撃情報を会社が保険代理店と共有している場合、それをデータで追加することはできますか？"
+  },
+  "answer": {
+    "description": {
+      "en": " (No, we will not publish data without the explicit permission of the company unless it is publicly available)",
+      "jp": "公開されているデータでない限り、企業の明示的な許可なくデータを公開することはございません。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce319886"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "Does the attack data covers all the attacks? ",
+    "jp": "攻撃データはすべての攻撃をカバーしているのですか？"
+  },
+  "answer": {
+    "description": {
+      "en": "The data covers all the attacks for which the information is available publicly. Any information which is not publicly available is not covered for the legal reasons",
+      "jp": "このデータは、情報が公開されているすべての攻撃を対象としています。法的な理由により、公開されていない情報は対象外です。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce319887"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "What kind of news are available on the site?\r\n",
+    "jp": "どのようなニュースが掲載されていますか？"
+  },
+  "answer": {
+    "description": {
+      "en": "We cover a wide variety of different types of cyber incidents and breaches that occur within the Japanese market and international market. \r\n",
+      "jp": "日本市場や国際市場で発生するさまざまな種類のサイバーインシデントや侵害を幅広くカバーしています。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce319888"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "How can I get more information about a particular news? ",
+    "jp": "特定のニュースについて、より詳しい情報を得るにはどうすればよいのでしょうか？"
+  },
+  "answer": {
+    "description": {
+      "en": "The original news source link is available with each news. You can visit the original news site to get more detailed news)",
+      "jp": "各ニュースには、元のニュースソースへのリンクがあります。より詳細な情報を得るために、オリジナルのニュースサイトを訪問することができます。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce319889"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "How can I know about the news I am interested in?",
+    "jp": "興味のあるニュースについて知るにはどうしたらよいですか？"
+  },
+  "answer": {
+    "description": {
+      "en": "You will get a application notification and email notification for the news for the Industry Sector who have listed in your profile. ",
+      "jp": "手続きは非常に簡単で、アンケートの各特定質問に回答すると、サイトがセキュリティポストを計算します。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce31988a"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "What are the steps of going through posture assessment? \r\n",
+    "jp": "ポスチュア評価にはどのような段階があるのでしょうか？"
+  },
+  "answer": {
+    "description": {
+      "en": "(The process is very simple, answer each specific questions in the questionnaire and the site will compute the security posture)\r\n",
+      "jp": "手続きは非常に簡単で、アンケートの各特定質問に回答すると、サイトがセキュリティポストを計算します。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce31988b"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "Can I skip a question from the questionnaire?",
+    "jp": "アンケートの質問を省略することはできますか？"
+  },
+  "answer": {
+    "description": {
+      "en": "You can not skip questions marked 'Mandatory' as the computation is based on specific questions,   Sorry for the inconvenience this may cause",
+      "jp": "「必須」となっている問題は、特定の問題に基づいて計算されるため、スキップすることはできません。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce31988c"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "How do you change profile name (",
+    "jp": "プロフィール名を変更するにはどうしたらいいですか？"
+  },
+  "answer": {
+    "description": {
+      "en": "Go to settings->Change Profile name)",
+      "jp": "設定->プロファイル名の変更"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce31988d"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "What are the descriptions for each category?  ",
+    "jp": "各カテゴリーの説明について教えてください。 "
+  },
+  "answer": {
+    "description": {
+      "en": "(When you click or hover over the each category the description of each will be shown)",
+      "jp": "各カテゴリーをクリックまたはカーソルを合わせると、それぞれの説明が表示されます。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce31988e"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "How is the Financial Impact is calculated?",
+    "jp": "フィナンシャル・インパクトはどのように計算されますか？"
+  },
+  "answer": {
+    "description": {
+      "en": "A detailed explanation on the computation is provided in the 'Financial Impact Calculation Document' ",
+      "jp": "計算に関する詳細な説明は、「財務的影響度計算書」に記載されています。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce31988f"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "Are the claims process the same for each insurance company? \r\n\r\n\r\n\r\n",
+    "jp": "保険金支払いの手続きは、各保険会社で同じですか？"
+  },
+  "answer": {
+    "description": {
+      "en": "(The claims process shown is a general example of what each party goes through when an incident occurs but there maybe a discrepancy in a specific step between individual insurance companies.  Please check the detailed claims process with the insurance company). ",
+      "jp": "保険金請求のプロセスは、事故発生時に各当事者が経験する一般的な例であり、個々の保険会社によって特定のステップに相違がある可能性があります。 保険金請求の詳細な流れは、保険会社にご確認ください。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce319890"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "Are the coverages shown the same for each insurance company?",
+    "jp": "各保険会社の補償内容は同じですか？"
+  },
+  "answer": {
+    "description": {
+      "en": " (The insurance coverages shown are a general example but there maybe a discrepancy between individual insurance companies.  Please check the detailed claims process with the insurance company). ",
+      "jp": "表示されている保険は一般的な例であり、各保険会社によって異なる場合があります。 詳細な請求手続きは保険会社にご確認ください。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce319891"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "What type of licenses are available?",
+    "jp": "ライセンスはどのようなものがありますか。"
+  },
+  "answer": {
+    "description": {
+      "en": "A detailed explanation on licenses and the price is provided in This Page. Link",
+      "jp": "ライセンスと価格の詳細については、このページで説明しています。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce319892"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "I am getting error when I try see a graph. How do I resolve it",
+    "jp": "グラフを表示しようとするとエラーが発生します。解決方法を教えてください。"
+  },
+  "answer": {
+    "description": {
+      "en": "You might not be connected to internet. Please ensure your connection and try again",
+      "jp": "インターネットに接続されていない可能性があります。接続を確認し、もう一度お試しください。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce319893"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "Is the data shared between the grops within a company?",
+    "jp": "会社内のグループ間でデータは共有されているのでしょうか？"
+  },
+  "answer": {
+    "description": {
+      "en": "Some data is restricted to a group and some data is shared across the company. A table describig this is provided in a separate document",
+      "jp": "あるデータはグループに限定され、あるデータは全社で共有されます。これを説明する表は別資料で提供されます。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce319894"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "Can I add and remove people to my group?",
+    "jp": "グループへの参加者の追加・削除はできますか？"
+  },
+  "answer": {
+    "description": {
+      "en": "Creating groups, adding / deleting users is done by the person having Admin rights.",
+      "jp": "グループの作成、ユーザーの追加・削除は、Admin 権限を持つ人が行います。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce319895"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "Can I enable or disable email notification for the users within my company?",
+    "jp": "社内のユーザーに対して、メール通知を有効・無効にすることはできますか？"
+  },
+  "answer": {
+    "description": {
+      "en": "Yes, In the admin console, under Email notifications you can enable or disable email notification",
+      "jp": "はい、管理コンソールのメール通知で、メール通知の有効・無効を設定できます。\r\n"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce319896"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "Can I enable or disable email notification for a particular user within my company?",
+    "jp": "会社内の特定のユーザーに対して、Eメール通知を有効または無効にすることはできますか？"
+  },
+  "answer": {
+    "description": {
+      "en": "The email notification configuration is applicable for your company, it can not be done at a individual user level.",
+      "jp": "メール通知の設定は会社単位で行うものであり、ユーザー単位で行うことはできません。\r\n"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386d2f6ec20407ce319897"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "The user I crated not getting saved.",
+    "jp": "作成したユーザーが保存されません。"
+  },
+  "answer": {
+    "description": {
+      "en": "Information on all mandatory fields may not be filled. Please fill all the information and try again",
+      "jp": "必須項目はすべて入力されていない可能性があります。すべての情報を入力して、もう一度お試しください。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "624ef0ab04adfd9c0abf4c1b"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "What should I do if I've forgotten my password?",
+    "jp": "パスワードを忘れてしまった場合はどうすればよいですか？"
+  },
+  "answer": {
+    "description": {
+      "en": "Click on \"Forgot password\" link on login page and follow the steps to reset your password. If you still having an issue then contact us and we will see how we can help.",
+      "jp": "ログインページの「パスワードをお忘れの方」をクリックし、手順に沿ってパスワードを再設定してください。それでも問題が解決しない場合は、弊社までご連絡ください。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "624ef0ab04adfd9c0abf4c1c"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "How do I change my password?",
+    "jp": "パスワードの変更方法を教えてください。"
+  },
+  "answer": {
+    "description": {
+      "en": "Need to change your password? Simply log into your account using your current password and change your password. If you still having an issue then contact us and we will see how we can help.",
+      "jp": "パスワードの変更が必要な場合 現在のパスワードを使用してアカウントにログインし、パスワードを変更することができます。それでも問題が解決しない場合は、弊社までご連絡ください。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "624ef0ab04adfd9c0abf4c1d"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "How do I purchase a license for our company?",
+    "jp": "会社用のライセンスはどのように購入するのですか？"
+  },
+  "answer": {
+    "description": {
+      "en": "Please contact our support team to get a license and start using it. More information about licenses and the price can be found at this page.",
+      "jp": "ライセンスを取得し、使用を開始するには、弊社サポートチームまでお問い合わせください。ライセンスと価格の詳細については、こちらのページでご確認いただけます。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "624ef0ab04adfd9c0abf4c1e"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "How do I purchase a license for our team?",
+    "jp": "チーム用のライセンスを購入するにはどうすればよいですか？"
+  },
+  "answer": {
+    "description": {
+      "en": "Please contact our support team to get a license and start using it. More information about licenses and the price can be found at this page.",
+      "jp": "ライセンスを取得し、使用を開始するには、弊社サポートチームまでお問い合わせください。ライセンスと価格の詳細については、こちらのページでご確認いただけます。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "624ef0ab04adfd9c0abf4c1f"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "How do I purchase a license and become a membership?",
+    "jp": "ライセンスを購入し、会員になるにはどうすればいいですか？"
+  },
+  "answer": {
+    "description": {
+      "en": "Please contact our support team to get a license and start using. In the meantime the individual contract is still not available. More information about licenses and the price can be found at this page.",
+      "jp": "ライセンスを取得し、使用を開始するには、弊社サポートチームまでお問い合わせください。その間、個人での契約はまだできません。ライセンスと価格の詳細については、こちらのページでご確認いただけます。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "624ef0ab04adfd9c0abf4c20"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "What happens if I cancel company account?",
+    "jp": "会社のアカウントをキャンセルしたらどうなりますか？"
+  },
+  "answer": {
+    "description": {
+      "en": "Please contact our support team to cancel the license to stop using it. In the meantime, there is no available option to cancel the license online.",
+      "jp": "使用中止のためのライセンス解除は、弊社サポートまでご連絡ください。なお、オンラインによるライセンスの取り消しはできません。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "624ef0ab04adfd9c0abf4c21"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "What happens if I cancel my account?",
+    "jp": "自分のアカウントをキャンセルするとどうなりますか？"
+  },
+  "answer": {
+    "description": {
+      "en": "Please contact your company admin to add or remove user.",
+      "jp": "ユーザーの追加や削除は、御社の管理者に連絡してください。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "624ef0ab04adfd9c0abf4c22"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "What happens if I want to delete my account?",
+    "jp": "アカウントを削除したい場合はどうすればいいですか？"
+  },
+  "answer": {
+    "description": {
+      "en": "Please contact your company admin to add or remove user.",
+      "jp": "ユーザーの追加や削除は、御社の管理者に連絡してください。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "624ef0ab04adfd9c0abf4c23"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "How can I see my current license information?",
+    "jp": "現在のライセンス情報を確認するにはどうすればよいですか？"
+  },
+  "answer": {
+    "description": {
+      "en": "Login to your account and you can see the license status in your dashboard. Only admin can able to view the license status.",
+      "jp": "アカウントにログインすると、ダッシュボードでライセンス状況を確認することができます。ライセンス状況は、管理者のみ閲覧可能です。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "624ef0ab04adfd9c0abf4c24"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "Can I migrate my current account information to other user without changing the license?",
+    "jp": "ライセンスを変更せずに、現在のアカウント情報を他のユーザーに移行することはできますか？"
+  },
+  "answer": {
+    "description": {
+      "en": "No but you can clone the user account and create new user with the same credentials. And then assign the insurance agents under the new manager account.",
+      "jp": "いいえ。しかし、ユーザーアカウントを複製し、同じ資格情報で新しいユーザーを作成することはできます。そして、保険代理店を新しいマネージャーアカウントの下に割り当てます。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "624ef0ab04adfd9c0abf4c25"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "Do you have any campaign for a license.",
+    "jp": "ライセンスのキャンペーンはありますか？"
+  },
+  "answer": {
+    "description": {
+      "en": "We have a champaign from time to time. If you cannot find the champaign information on this page, please contact our support team to get the latest information about campaign.",
+      "jp": "随時、キャンペーンを開催しています。このページにキャンペーン情報が掲載されていない場合は、弊社サポート窓口までお問い合わせください。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "624ef0ab04adfd9c0abf4c26"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "How can I renew my license?",
+    "jp": "ライセンスの更新方法を教えてください。"
+  },
+  "answer": {
+    "description": {
+      "en": "Our contract team will contact you for renewl 1 month prior to expiration. Please check the License renewel flow from here",
+      "jp": "契約満了の1ヶ月前に、弊社契約担当より更新のご連絡をさせていただきます。ライセンス更新の流れはこちらからご確認ください。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "624ef0ab04adfd9c0abf4c27"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "Can we share same account with the team?",
+    "jp": "チームで同じアカウントを共有できますか？"
+  },
+  "answer": {
+    "description": {
+      "en": "Sharing account is not allowed as per security concerns. However follow your company's guideline for sharing the account.",
+      "jp": "セキュリティ上の懸念から、アカウントの共有はできません。ただし、アカウントの共有については、各社のガイドラインに従ってください。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "624ef0ab04adfd9c0abf4c28"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "Do I need to go to your office for purchasing the license?",
+    "jp": "ライセンスの購入には来社が必要ですか？"
+  },
+  "answer": {
+    "description": {
+      "en": "Due to Covid-19, we follow the strict policy of face to face meeting with the clients. First, our contract team will arrange a video call meeting and explain about the procedures. And then we will send the contract to your office. Visiting to your office also available upon request.",
+      "jp": "Covid-19のため、お客様との面談は厳格な方針で行っています。まず、契約担当者がビデオ通話で打ち合わせを行い、手続きについて説明します。その後、契約書をお客様のオフィスにお送りします。また、ご希望により訪問も可能です。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "624ef0ab04adfd9c0abf4c29"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "How long does it take to start using the system?",
+    "jp": "利用開始までにどのくらいかかりますか？"
+  },
+  "answer": {
+    "description": {
+      "en": "Our onboarding process is very fast. Once we settled the agreement and contract, our technical team will set up the account right away and share the credentials with you. And then our back office team will arrange necessary training and manuals upon requests. We currently don't offer the customization of the system however we are planning to add that feature in future. ",
+      "jp": "私たちのオンボーディングプロセスは非常に高速です。契約書と同意書を交わした後、当社の技術チームがすぐにアカウントを設定し、クレデンシャルをお客様と共有します。その後、ご要望に応じて、バックオフィス・チームが必要なトレーニングやマニュアルを手配します。現在、システムのカスタマイズは行っておりませんが、将来的にはこの機能を追加する予定です。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "624ef0ab04adfd9c0abf4c2a"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "Can I see my past billing records online?",
+    "jp": "過去の請求履歴をオンラインで見ることはできますか？"
+  },
+  "answer": {
+    "description": {
+      "en": "No, currently online billing is still not available and history records also not available to view.",
+      "jp": "いいえ、現在もオンライン課金には対応しておらず、履歴も見ることができません。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "624ef0ab04adfd9c0abf4c2b"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "Who can add or remove users and user group?",
+    "jp": "ユーザーやユーザーグループの追加・削除は誰ができるのでしょうか？"
+  },
+  "answer": {
+    "description": {
+      "en": "Only admin can able to add, edit and delete users. Learn more about permissions and check this step by step manual for how to add, edit and delete users and user groups.",
+      "jp": "ユーザーの追加、編集、削除は管理者のみ可能です。権限についての詳細と、ユーザーおよびユーザーグループの追加、編集、削除の方法については、こちらのステップバイステップマニュアルをご覧ください。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "624ef0ab04adfd9c0abf4c2c"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "Can I open the application on Safari?",
+    "jp": "Safariでアプリケーションを開くことはできますか？"
+  },
+  "answer": {
+    "description": {
+      "en": "Please check the support browser list in here. And currently mobile view is not available.",
+      "jp": "対応ブラウザはこちらでご確認ください。また、現在モバイルビューはご利用になれません。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "624ef0ab04adfd9c0abf4c2d"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "How can I download the analytics reports?",
+    "jp": "分析レポートはどのようにダウンロードできますか？"
+  },
+  "answer": {
+    "description": {
+      "en": "Please follow this step by step manual for downloading the analytics reports. Also check the roles and permission of who can download the reports here.",
+      "jp": "アナリティクスレポートをダウンロードするには、こちらのステップバイステップマニュアルに従ってください。また、レポートをダウンロードできる人の役割と権限をここで確認してください。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "624ef0ab04adfd9c0abf4c2e"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "Can I change email for the accounts?",
+    "jp": "アカウントのEメールを変更することはできますか？"
+  },
+  "answer": {
+    "description": {
+      "en": "No, in order to change the email, you must delete the current account and create new account with the new email.",
+      "jp": "いいえ、Eメールを変更するためには、現在のアカウントを削除し、新しいEメールで新しいアカウントを作成する必要があります。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "624ef0ab04adfd9c0abf4c2f"
+  },
+  "type": "skc-faq-questions",
+  "name": {
+    "en": "How do I contact customer support?",
+    "jp": "カスタマーサポートに連絡するにはどうすればよいですか？"
+  },
+  "answer": {
+    "description": {
+      "en": "If you cannot solve the problems, you can always feel free to reach out to us at 09-XXXX-XXXX during the work hours. You can also send email to support@mirai.com and we'll get right back to you with the response within 3 business days.",
+      "jp": "問題が解決されない場合は、業務時間内にいつでもお気軽に09-XXXX-XXXXまでご連絡ください。また、support@mirai.com までメールを送っていただければ、3営業日以内にお返事いたします。"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62386c4a6ec20407ce319703"
+  },
+  "name": {
+    "en": "Access and identity management",
+    "jp": ""
+  },
+  "description": {
+    "en": "Synonym(s): identity and access management",
+    "jp": ""
+  },
+  "type": "skc-faq-questions"
+}]

@@ -1,0 +1,85 @@
+[{
+    "_id": {
+      "$oid": "6256b19678db72a819f80883"
+    },
+    "index": "cyber-insurance",
+    "category": "insurance-product-brochures",
+    "name": {
+      "jp": "サイバーセキュリティ保険　パンフレット",
+      "en": "en"
+    },
+    "description": {
+      "jp": "保険商品の概要を説明した資料です。",
+      "en": "en"
+    }
+  },{
+    "_id": {
+      "$oid": "6256b19678db72a819f80884"
+    },
+    "index": "cyber-insurance",
+    "category": "insurance-product-brochures",
+    "name": {
+      "jp": "サイバーセキュリティ保険　ワイドプランおすすめチラシ",
+      "en": ""
+    },
+    "description": {
+      "jp": "ワイドプランについての特徴について説明している資料です。",
+      "en": ""
+    }
+  },{
+    "_id": {
+      "$oid": "6256b19678db72a819f80885"
+    },
+    "index": "cyber-insurance",
+    "category": "insurance-product-brochures",
+    "name": {
+      "jp": "サイバーセキュリティ保険　事故発生時費用訴求チラシ",
+      "en": ""
+    },
+    "description": {
+      "jp": "事故が起こった時に発生する費用と保険補償について説明しています。",
+      "en": ""
+    }
+  },{
+    "_id": {
+      "$oid": "6256b19678db72a819f80886"
+    },
+    "index": "cyber-insurance",
+    "category": "insurance-product-brochures",
+    "name": {
+      "jp": "サイバーセキュリティ保険　利益損害補償特約訴求チラシ",
+      "en": ""
+    },
+    "description": {
+      "jp": "利益損害補償特約を付帯するメリットについて説明しています。",
+      "en": ""
+    }
+  },{
+    "_id": {
+      "$oid": "6256b19678db72a819f80887"
+    },
+    "index": "cyber-insurance",
+    "category": "insurance-product-brochures",
+    "name": {
+      "jp": "サイバープロテクター商品パンフレット",
+      "en": ""
+    },
+    "description": {
+      "jp": "保険商品の概要を説明した資料です。",
+      "en": ""
+    }
+  },{
+    "_id": {
+      "$oid": "6256b19678db72a819f80888"
+    },
+    "index": "cyber-insurance",
+    "category": "insurance-product-brochures",
+    "name": {
+      "jp": "個人情報漏洩保険",
+      "en": ""
+    },
+    "description": {
+      "jp": "保険商品の概要を説明した資料です。",
+      "en": "https://mirai-content-bucket.s3.ap-northeast-1.amazonaws.com/cyber-insurance/screen-8/report6.pdf"
+    }
+  }]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "6225babbb344d5749613676c",
+    "index": "attack-vector",
+    "name": {
+      "en": "Malware ",
+      "jp": "マルウェア"
+    },
+    "description": {
+      "en": "Malware (short for “malicious software”) is a file or code, typically delivered over a network, that infects, explores, steals or conducts virtually any behavior an attacker wants.",
+      "jp": "マルウェア（「悪意のあるソフトウェア」の略）は、通常はネットワークを介して配信されるファイルまたはコードであり、攻撃者が望むほぼすべての動作に感染、探索、盗用、または実行します。"
+    }
+  },
+  {
+    "id": "6225babbb344d57496136771",
+    "index": "attack-vector",
+    "name": {
+      "en": "Hacking",
+      "jp": "ハッキング"
+    },
+    "description": {
+      "en": "Hacking is all attempts to intentionally access or harm information assets without (or exceeding) authorization by circumventing or thwarting logical security mechanisms.",
+      "jp": "ハッキングとは、論理的なセキュリティメカニズムを回避または妨害することにより、許可なしに（または超過して）情報資産に意図的にアクセスまたは危害を加えようとするすべての試みです。"
+    }
+  },
+  {
+    "id": "6225babbb344d57496136775",
+    "index": "attack-vector",
+    "name": {
+      "en": "Social Engineering",
+      "jp": "ソーシャルエンジニアリング"
+    },
+    "description": {
+      "en": "Social tactics employ deception, manipulation, intimidation, etc to exploit the human element, or users, of information assets.",
+      "jp": "ソーシャル戦術は、情報資産の人的要素またはユーザーを悪用するために、欺瞞、操作、脅迫などを使用します。"
+    }
+  },
+  {
+    "id": "6225babbb344d5749613677b",
+    "index": "attack-vector",
+    "name": {
+      "en": "Physical ",
+      "jp": "物理的"
+    },
+    "description": {
+      "en": "(Physical actions encompass deliberate threats that involve proximity, possession, or force.)",
+      "jp": "物理的行動には、近接、所持、または力を伴う意図的な脅威が含まれます。）"
+    }
+  },
+  {
+    "id": "6225babbb344d5749613677d",
+    "index": "attack-vector",
+    "name": {
+      "en": "Error ",
+      "jp": "エラー"
+    },
+    "description": {
+      "en": "Error broadly encompasses anything done (or left undone) incorrectly or inadvertently.",
+      "jp": "エラーには、誤ってまたは不注意に行われた（または取り消されたままにされた）すべてのものが広く含まれます。"
+    }
+  },
+  {
+    "id": "6225babbb344d5749613677f",
+    "index": "attack-vector",
+    "name": {
+      "en": "Misuse",
+      "jp": "悪用"
+    },
+    "description": {
+      "en": " (Misuse is defined as the use of entrusted organizational resources or privileges for any purpose or manner contrary to that which was intended. (",
+      "jp": "誤用とは、意図されたものとは反対の目的または方法で、委託された組織のリソースまたは特権を使用することと定義されます。"
+    }
+  }
+]

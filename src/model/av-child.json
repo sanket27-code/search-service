@@ -1,0 +1,324 @@
+[
+  {
+    "_id": {
+      "$oid": "6242e701b779bbb6bd9297a8"
+    },
+    "parentId": "6225babbb344d57496136771",
+    "index": "attack-vector",
+    "name": {
+      "en": "Brute Force",
+      "jp": "ブルートフォース"
+    },
+    "description": {
+      "en": "The hacker tries multiple usernames and passwords, often using a computer to test a wide range of combinations, until they find the correct login information.\r\n\r\n<br>The \"brute force\" is using excessively forceful attempts to gain access to user accounts. ",
+      "jp": "ハッカーは、正しいログイン情報が見つかるまで、多くの場合、コンピュータを使用して幅広い組み合わせをテストしながら、複数のユーザー名とパスワードを試します。\r\n\r\n<br>「ブルート フォース」は、ユーザ アカウントへのアクセスを得るために過度に強制的な試みを使用しています。"
+    },
+    "parentName": {
+      "en": "Hacking",
+      "jp": "ハッキング"
+    },
+    "parentDescription": {
+      "en": "Hacking is all attempts to intentionally access or harm information assets without (or exceeding) authorization by circumventing or thwarting logical security mechanisms.",
+      "jp": "ハッキングとは、論理的なセキュリティメカニズムを回避または妨害することにより、許可なしに（または超過して）情報資産に意図的にアクセスまたは危害を加えようとするすべての試みです。"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6242e701b779bbb6bd9297a9"
+    },
+    "parentId": "6225babbb344d57496136771",
+    "index": "attack-vector",
+    "name": {
+      "en": "DOS/DDoS",
+      "jp": "DOS/DDoS"
+    },
+    "description": {
+      "en": "DoS, which is a malicious network attack that involves hackers forcing numerous Internet-connected devices to send network communication requests to one specific service or website with the intention of overwhelming it with false traffic or requests. This has the effect of tying up all available resources to deal with these requests, and crashing the web server or distracting it enough that normal users cannot create a connection between their systems and the server.",
+      "jp": "DoS は、ハッカーが多数のインターネットに接続されたデバイスに、誤ったトラフィックまたは要求でそれを圧倒する意図で、1 つの特定のサービスまたは Web サイトにネットワーク通信要求を送信するように強制する悪意のあるネットワーク攻撃です。これは、これらの要求を処理するために利用可能なすべてのリソースを縛り付け、Webサーバーをクラッシュさせたり、通常のユーザーがシステムとサーバー間の接続を作成できないほど気を散らしたりする効果があります。"
+    },
+    "parentName": {
+      "en": "Hacking",
+      "jp": "ハッキング"
+    },
+    "parentDescription": {
+      "en": "Hacking is all attempts to intentionally access or harm information assets without (or exceeding) authorization by circumventing or thwarting logical security mechanisms.",
+      "jp": "ハッキングとは、論理的なセキュリティメカニズムを回避または妨害することにより、許可なしに（または超過して）情報資産に意図的にアクセスまたは危害を加えようとするすべての試みです。"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6242e701b779bbb6bd9297aa"
+    },
+    "parentId": "6225babbb344d57496136771",
+    "index": "attack-vector",
+    "name": {
+      "en": "Tampering",
+      "jp": "改ざん"
+    },
+    "description": {
+      "en": "Data tampering is a type of attack where the hacker modifies (destroying, manipulating, or editing) data understanding the effects of the modification.",
+      "jp": "データの改ざんとは、許可されていないチャネルを介して意図的にデータを変更する行為のことです。"
+    },
+    "parentName": {
+      "en": "Hacking",
+      "jp": "ハッキング"
+    },
+    "parentDescription": {
+      "en": "Hacking is all attempts to intentionally access or harm information assets without (or exceeding) authorization by circumventing or thwarting logical security mechanisms.",
+      "jp": "ハッキングとは、論理的なセキュリティメカニズムを回避または妨害することにより、許可なしに（または超過して）情報資産に意図的にアクセスまたは危害を加えようとするすべての試みです。"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6242e701b779bbb6bd9297ab"
+    },
+    "parentId": "6225babbb344d57496136771",
+    "index": "attack-vector",
+    "name": {
+      "en": "SQL Injection",
+      "jp": "SQLインジェクション"
+    },
+    "description": {
+      "en": "SQL injection uses malicious  SQL code for backend database manipulation to access unauthorized information.",
+      "jp": "SQL インジェクションは、バックエンド データベース操作に悪意のある SQL コードを使用して、許可されていない情報にアクセスします。"
+    },
+    "parentName": {
+      "en": "Hacking",
+      "jp": "ハッキング"
+    },
+    "parentDescription": {
+      "en": "Hacking is all attempts to intentionally access or harm information assets without (or exceeding) authorization by circumventing or thwarting logical security mechanisms.",
+      "jp": "ハッキングとは、論理的なセキュリティメカニズムを回避または妨害することにより、許可なしに（または超過して）情報資産に意図的にアクセスまたは危害を加えようとするすべての試みです。"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6242e701b779bbb6bd9297ac"
+    },
+    "parentId": "6225babbb344d57496136775",
+    "index": "attack-vector",
+    "name": {
+      "en": "Phishing",
+      "jp": "フィッシング"
+    },
+    "description": {
+      "en": "Phishing is a type of social engineering attack often used to steal user data, including login credentials and credit card numbers. It occurs when an attacker, masquerading as a trusted entity, dupes a victim into opening an email, instant message, or text message.",
+      "jp": "フィッシングは、ログイン資格情報やクレジット カード番号などのユーザ データを盗むためによく使用されるソーシャル エンジニアリング攻撃の一種です。これは、攻撃者が信頼されたエンティティになりすまして、被害者をだまして電子メール、インスタント メッセージ、またはテキスト メッセージを開くように仕向けたときに発生します。"
+    },
+    "parentName": {
+      "en": "Social Engineering",
+      "jp": "ソーシャルエンジニアリング"
+    },
+    "parentDescription": {
+      "en": "Social tactics employ deception, manipulation, intimidation, etc to exploit the human element, or users, of information assets.",
+      "jp": "ソーシャル戦術は、情報資産の人的要素またはユーザーを悪用するために、欺瞞、操作、脅迫などを使用します。"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6242e701b779bbb6bd9297ad"
+    },
+    "parentId": "6225babbb344d57496136775",
+    "index": "attack-vector",
+    "name": {
+      "en": "Scam",
+      "jp": "詐欺"
+    },
+    "description": {
+      "en": "Internet scams are different methodologies of Fraud, facilitated by cybercriminals on the Internet. ",
+      "jp": "インターネット詐欺は、インターネット上のサイバー犯罪者によって促進される詐欺のさまざまな方法論です。"
+    },
+    "parentName": {
+      "en": "Social Engineering",
+      "jp": "ソーシャルエンジニアリング"
+    },
+    "parentDescription": {
+      "en": "Social tactics employ deception, manipulation, intimidation, etc to exploit the human element, or users, of information assets.",
+      "jp": "ソーシャル戦術は、情報資産の人的要素またはユーザーを悪用するために、欺瞞、操作、脅迫などを使用します。"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6242e701b779bbb6bd9297ae"
+    },
+    "parentId": "6225babbb344d5749613677b",
+    "index": "attack-vector",
+    "name": {
+      "en": "Theft",
+      "jp": "盗難"
+    },
+    "description": {
+      "en": "Theft is a type of physical attack where the hacker goes inside company premises and steals company financial and information assets without the permission of the company. ",
+      "jp": "窃盗は、ハッカーが会社の敷地内に入り、会社の許可なく会社の財務資産や情報資産を盗む物理的な攻撃の一種です。"
+    },
+    "parentName": {
+      "en": "Physical ",
+      "jp": "物理的"
+    },
+    "parentDescription": {
+      "en": "(Physical actions encompass deliberate threats that involve proximity, possession, or force.)",
+      "jp": "物理的行動には、近接、所持、または力を伴う意図的な脅威が含まれます。）"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6242e701b779bbb6bd9297af"
+    },
+    "parentId": "6225babbb344d5749613677d",
+    "index": "attack-vector",
+    "name": {
+      "en": "Misdelivery",
+      "jp": "誤送信"
+    },
+    "description": {
+      "en": "Misdelivery is a type of human error caused by personell sending information to the wrong recipient because of reasons such as over relying on the auto-suggest features in emails. ",
+      "jp": "誤配信は、電子メールの自動提案機能に過度に依存するなどの理由で、personell が間違った受信者に情報を送信することによって引き起こされる人為的エラーの一種です。"
+    },
+    "parentName": {
+      "en": "Error ",
+      "jp": "エラー"
+    },
+    "parentDescription": {
+      "en": "Error broadly encompasses anything done (or left undone) incorrectly or inadvertently.",
+      "jp": "エラーには、誤ってまたは不注意に行われた（または取り消されたままにされた）すべてのものが広く含まれます。"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6242e701b779bbb6bd9297b0"
+    },
+    "parentId": "6225babbb344d5749613677d",
+    "index": "attack-vector",
+    "name": {
+      "en": "Loss ",
+      "jp": "紛失"
+    },
+    "description": {
+      "en": "Loss is a type of human error that can be caused by carelessness from the personell which can be caused the handling of massive amount of data every day, that is  likely to make mistakes leading to data leaks.",
+      "jp": "紛失は、毎日大量のデータを扱う原因となり得るペルソネルの不注意によって引き起こされる可能性のある人為的ミスの一種であり、データ漏洩につながる間違いを犯す可能性があります。"
+    },
+    "parentName": {
+      "en": "Error ",
+      "jp": "エラー"
+    },
+    "parentDescription": {
+      "en": "Error broadly encompasses anything done (or left undone) incorrectly or inadvertently.",
+      "jp": "エラーには、誤ってまたは不注意に行われた（または取り消されたままにされた）すべてのものが広く含まれます。"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6242e701b779bbb6bd9297b1"
+    },
+    "parentId": "6225babbb344d5749613677f",
+    "index": "attack-vector",
+    "name": {
+      "en": "Intentional Leakage",
+      "jp": "意図的な漏れ"
+    },
+    "description": {
+      "en": "This attack is a misuse attack that is done individual that leaks information from a specific objective such as public awareness.  ",
+      "jp": "この攻撃は、公衆の意識など特定の目的から情報を漏らす個人による誤用攻撃です。"
+    },
+    "parentName": {
+      "en": "Misuse",
+      "jp": "悪用"
+    },
+    "parentDescription": {
+      "en": " (Misuse is defined as the use of entrusted organizational resources or privileges for any purpose or manner contrary to that which was intended. (",
+      "jp": "誤用とは、意図されたものとは反対の目的または方法で、委託された組織のリソースまたは特権を使用することと定義されます。"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6242e701b779bbb6bd9297b2"
+    },
+    "parentId": "6225babbb344d5749613677f",
+    "index": "attack-vector",
+    "name": {
+      "en": "Privilege Abuse",
+      "jp": "権限悪用"
+    },
+    "description": {
+      "en": "These attacks are done by malicious insiders who are employees who expose private company information through privileged misuse – using their access to hurt your company or make money by exploiting your data or networks.",
+      "jp": "これらの攻撃は、特権的な誤用を通じてプライベートな企業情報を公開する従業員である悪意のある内部者によって行われます - あなたの会社を傷つけたり、あなたのデータやネットワークを悪用してお金を稼ぐために彼らのアクセスを使用します。"
+    },
+    "parentName": {
+      "en": "Misuse",
+      "jp": "悪用"
+    },
+    "parentDescription": {
+      "en": " (Misuse is defined as the use of entrusted organizational resources or privileges for any purpose or manner contrary to that which was intended. (",
+      "jp": "誤用とは、意図されたものとは反対の目的または方法で、委託された組織のリソースまたは特権を使用することと定義されます。"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6242e701b779bbb6bd9297b3"
+    },
+    "parentId": "6225babbb344d5749613676c",
+    "index": "attack-vector",
+    "name": {
+      "en": "Ransomware ",
+      "jp": "ランサムウェア"
+    },
+    "description": {
+      "en": "Victims critical data is encrypted so that they cannot access files, databases, or applications. A ransom is then demanded to provide access.",
+      "jp": "被害者の重要なデータは暗号化されているため、ファイル、データベース、またはアプリケーションにアクセスできません。その後、アクセスを提供するために身代金が要求されます。"
+    },
+    "parentName": {
+      "en": "Malware ",
+      "jp": "マルウェア"
+    },
+    "parentDescription": {
+      "en": "Malware (short for “malicious software”) is a file or code, typically delivered over a network, that infects, explores, steals or conducts virtually any behavior an attacker wants.",
+      "jp": "マルウェア（「悪意のあるソフトウェア」の略）は、通常はネットワークを介して配信されるファイルまたはコードであり、攻撃者が望むほぼすべての動作に感染、探索、盗用、または実行します。"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6242e701b779bbb6bd9297b4"
+    },
+    "parentId": "6225babbb344d5749613676c",
+    "index": "attack-vector",
+    "name": {
+      "en": "Worm",
+      "jp": "ワーム"
+    },
+    "description": {
+      "en": "Worms can be transmitted via software vulnerabilities. Or computer worms could arrive as attachments in spam emails or instant messages (IMs). Once opened, these files could provide a link to a malicious website or automatically download the computer worm. Once it’s installed, the worm silently goes to work and infects the machine without the user’s knowledge.",
+      "jp": "ワームは、ソフトウェアの脆弱性を介して送信される可能性があります。または、コンピュータワームがスパムメールやインスタントメッセージ(IM)の添付ファイルとして到着する可能性があります。これらのファイルを開くと、悪意のあるWebサイトへのリンクを提供したり、コンピュータワームを自動的にダウンロードしたりする可能性があります。インストールが完了すると、ワームは静かに作業を開始し、ユーザーの知らないうちにマシンに感染します。"
+    },
+    "parentName": {
+      "en": "Malware ",
+      "jp": "マルウェア"
+    },
+    "parentDescription": {
+      "en": "Malware (short for “malicious software”) is a file or code, typically delivered over a network, that infects, explores, steals or conducts virtually any behavior an attacker wants.",
+      "jp": "マルウェア（「悪意のあるソフトウェア」の略）は、通常はネットワークを介して配信されるファイルまたはコードであり、攻撃者が望むほぼすべての動作に感染、探索、盗用、または実行します。"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6242e701b779bbb6bd9297b5"
+    },
+    "parentId": "6225babbb344d5749613676c",
+    "index": "attack-vector",
+    "name": {
+      "en": "Trojan",
+      "jp": "トロイの木馬"
+    },
+    "description": {
+      "en": "Trojan horse is a type of malware that typically gets hidden as an attachment in an email or a free-to-download file, then transfers onto the user’s device. Once downloaded, the malicious code will execute the task the attacker designed it for, such as gain backdoor access to corporate systems, spy on users’ online activity, or steal sensitive data.",
+      "jp": "トロイの木馬はマルウェアの一種で、通常、電子メールまたは無料でダウンロードできるファイルの添付ファイルとして隠され、ユーザーのデバイスに転送されます。ダウンロードされると、悪意のあるコードは、企業システムへのバックドアアクセス、ユーザーのオンラインアクティビティのスパイ、機密データの盗難など、攻撃者が設計したタスクを実行します。"
+    },
+    "parentName": {
+      "en": "Malware ",
+      "jp": "マルウェア"
+    },
+    "parentDescription": {
+      "en": "Malware (short for “malicious software”) is a file or code, typically delivered over a network, that infects, explores, steals or conducts virtually any behavior an attacker wants.",
+      "jp": "マルウェア（「悪意のあるソフトウェア」の略）は、通常はネットワークを介して配信されるファイルまたはコードであり、攻撃者が望むほぼすべての動作に感染、探索、盗用、または実行します。"
+    }
+  }
+]
